@@ -14,7 +14,8 @@ The fork's primary features would include:
 
 *Bounty-Based Participation Reward Schema* - Karma-like system where ERC20 tokens are used to reward the site's moderation and early adopters.
 
-*A Federated System for Annotating Scientific Papers* - All federated sites can activate annotations for content which automatically tags textual content.  They can also generate their own conceptual labels, which all of the various social networks vote upon.  Users and moderators would rate the usage of these wiki labels as annotations, with the hope that laypeople can use this tool to understand complex scientific papers.
+*A Federated System for Annotating Scientific Papers* - All federated sites can activate annotations according to Mastodon instance, for the automated tagging of textual content.  They can also generate their own conceptual labels, which all of the various social networks vote upon.  Users and moderators would rate the usage of these wiki labels as annotations, with the hope that laypeople can use this tool to understand complex scientific papers.
 
 *Controversy Card Annotations* - Rather than forcing users to choose between the wiki and controversy card formats, I'll provide both options.  The controversy card format would be more story-based, more rooted in passing on crucial sources, more graphical, and also more useful for sharing content to social media.
 
+*Social Media Article Snapshot Tool* - A tool (possibly a chrome plugin?) for snapshotting science journalism quotes with the same color schema for font color and background, but with preferred font size, custom highlighting and framing options.  The tool would identify the original font, then reconstruct the quote (assuming that the font is accessible).  It would also present a variety of formats which would allow placement of an image from the article into the social media share.
