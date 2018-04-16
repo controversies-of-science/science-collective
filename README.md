@@ -1,39 +1,39 @@
 <p align="center">
-    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/facebook-wall-1.png" width="50%" />
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/facebook-wall-1.png" width="33%" />
 </p>
 
 # Mastodon Science Collective
 
 <p align="center">
-    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/facebook-wall-2.png" width="50%" />
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/facebook-wall-2.png" width="33%" />
 </p>
 
 Science Collective would be a fork of [the Mastodon project](https://joinmastodon.org/) which I hope to create and maintain to service the maverick science community.  The idea is that each maverick science thought leader would spin up their own [Twitter clone](https://mastodon.social/web/getting-started) dedicated to their particular project.  All of these instances can [federate with one another](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/User-guide.md#decentralization-and-federation) to form into meta-communities, and the fork would be designed to specifically support collaboration between these independent science communities.
 
 <p align="center">
-    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-prescientific-judgment-of-new-ideas.jpg" width="50%" />
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-prescientific-judgment-of-new-ideas.jpg" width="33%" />
 </p>
 
 <p align="center">
-    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-decline-in-conceptual-revolutions.jpg" width="50%" />
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-decline-in-conceptual-revolutions.jpg" width="33%" />
 </p>
 
 The social network's primary purpose would be to set up a self-supporting ecosystem to support the elaboration of groundbreaking science claims into predictive scientific hypotheses.  To get to that primary objective, science collective breaks the problem down into its constituent components:
 
-1. Creating the infrastructure required to support the aggregation of information about scientific controversies.
+1. Creating the infrastructure required to support the aggregation of information about controversial and groundbreaking science claims and questions.
 
-2. Supplementing their existing science education with details that are crucial for understanding controversial and groundbreaking science claims.
+2. Supplementing laypeoples' existing science education with details that are crucial for understanding controversial and groundbreaking science claims.
 
 3. Establishing a process which can over time help people to think about science claims at a higher, more critical level.
 
 <p align="center">
-    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-5-stages-of-the-mind.jpg" width="50%" />
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-5-stages-of-the-mind.jpg" width="33%" />
 </p>
 
 4. Creating a space for critique of scientific theories and science journalism.
 
 <p align="center">
-    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-why-critique-science.jpg" width="50%" />
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-why-critique-science.jpg" width="33%" />
 </p>
 
 The fork's primary features would include:
@@ -41,13 +41,13 @@ The fork's primary features would include:
 *Organizational Discourse Schema* - Organization of discussion into a schema which is intended to distinguish the types of scientific discourse, reducing unnecessary conflict within particular topics and enhancing the capabilities of each community by supporting specific roles, patterns of behavior and discovery needs.
 
 <p align="center">
-    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-structure-of-science.jpg" width="50%" />
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-structure-of-science.jpg" width="33%" />
 </p>
 
 *Modeling Integration* - Support into the Mastodon instance for rendering Jupyter notebooks will enable the rendering of complex simulations in service of specific technical arguments.
 
 <p align="center">
-    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-why-outsider-mavericks-matter-in-science.jpg" width="50%" />
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-why-outsider-mavericks-matter-in-science.jpg" width="33%" />
 </p>
 
 *Prediction Market Tracking, Integration and Standardization* - Integration of the Auger blockchain for registering and betting on scientific predictions; will probably require the creation of prediction standards to label those predictions which avoid common, predictable mistakes.
@@ -55,13 +55,13 @@ The fork's primary features would include:
 *Bounty-Based Moderation Reward Schema* - Karma-like system where ERC20 tokens are used to reward the site's moderation and early adopters.  Roles specifically suited for peer review are built into a checks-and-balances system ecology for reviewing content.  There would be rewards for identifying pertinent content (especially vindications); for proposing novel conjectures or analysis; for creating wikis and controversy cards which users end up actually using for annotations; for participating in the judgment of reviews; for exposing undesired behaviors on the site; for annotating content; etc.
 
 <p align="center">
-    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-crowdsourcing-of-scientific-controversies.jpg" width="50%" />
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-crowdsourcing-of-scientific-controversies.jpg" width="33%" />
 </p>
 
 *A Federated System for Annotating Scientific Papers* - All federated sites can activate annotations according to Mastodon instance, for the automated tagging of textual content.  They can also generate their own conceptual labels, which all of the various social networks vote upon.  Users and moderators would rate the usage of these wiki labels as annotations, with the hope that laypeople can use this tool to understand complex scientific papers.
 
 <p align="center">
-    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-annotation-of-scientific-papers.jpg" width="50%" />
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-annotation-of-scientific-papers.jpg" width="33%" />
 </p>
 
 *Controversy Card Annotations* - This is a library, partially constructed, of topics that are necessary to understand in the domain of scientific controversies.  There are currently [182 controversy cards](https://plus.google.com/collection/Yhn4Y).
@@ -73,13 +73,13 @@ Rather than forcing users to choose between the wiki and controversy card format
 *Federated Science Collective Search* - A component which can be placed onto a Mastodon instance which permits searching through all science collectives.
 
 <p align="center">
-    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversies-of-science-homepage.png" width="50%" />
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversies-of-science-homepage.png" width="33%" />
 </p>
 
 *A Process for Grooming Questions Into Testable Hypotheses* - This process is meant as a solution to the publish-or-perish problem, where researchers are subjected to a constant pressure to publish results even though original research can require decades to elaborate.  Each stage involves feedback.  The process begins with a question.  These questions do not have to necessarily be original; they can simply be questions about existing hypotheses which a person has just recently learned about.  If vindications can be found, they are then aggregated through a collaborative process known as tracking.  All of this tracking and discussion bins under the unique hashtag which is assigned to the original question.  As tracking progresses, any user can submit a request for review, which involves summarizing the claim, question or controversy as length-limited answers to a series of standard questions for a broader audience, who then weigh in on whether or not a controversy card should be created (the next step in this process).  Tracking does not stop once a controversy card is created, and at any point through the process, challenges can be lodged w/ their own hashtags, which then also become a focus for discussion.
 
 <p align="center">
-    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-anti-pattern-of-settled-science.jpg" width="50%" />
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-anti-pattern-of-settled-science.jpg" width="33%" />
 </p>
 
 [Mastodon's User Guide](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/User-guide.md)
@@ -89,7 +89,7 @@ Rather than forcing users to choose between the wiki and controversy card format
 *An Interface for Users to Track Numerous Controversial Claims* - This is simply a meta-tracking panel which shows metadata for each of the hashtags which a user is following.
 
 <p align="center">
-    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-controversy-first-science-education.jpg" width="50%" />
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-controversy-first-science-education.jpg" width="33%" />
 </p>
 
 *A System for Assigning Expertise to Users* - As users track controversies, they are encouraged to establish their expertise through a set of activities: 
@@ -111,7 +111,7 @@ The way that we will support these activities is to create the infrastructure re
 *A System for Measuring a User's Generalization* - This would be a discovery-type tool which measures the breadth of a user's participation, and helps them to identify their own blindspots through exposure to new controversies outside of their preferred specialization.
 
 <p align="center">
-    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-generalist.jpg" width="50%" />
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-generalist.jpg" width="33%" />
 </p>
 
 I don't expect this feature to exist right away, because there needs to be enough social network history for there to be a need to condense the existing feeds into a more targeted service.
@@ -119,7 +119,7 @@ I don't expect this feature to exist right away, because there needs to be enoug
 *A System for Categorizing Contributions* - The following list is a schema which can act as the basis for categorizing, rewarding and discovering the informational content that is the backbone for tracking scientific controversies.  I don't expect that participants would always bin these properly, so there would need to be a process for correcting binning mistakes.
 
 <p align="center">
-    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-innovations-long-tail.jpg" width="50%" />
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-innovations-long-tail.jpg" width="33%" />
 </p>
 
 **THE CLASH OF WORLDVIEWS**
