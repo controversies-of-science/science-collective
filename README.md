@@ -7,7 +7,7 @@ The fork's primary features would include:
 *Organizational Discourse Schema* - Organization of discussion into a schema which is intended to distinguish the types of scientific discourse, reducing unnecessary conflict within particular topics and enhancing the capabilities of each community by supporting specific roles, patterns of behavior and discovery needs.
 
 <p align="center">
-    <img src="https://github.com/worldviewer/science-collective/blob/master/controversy-card-the-structure-of-science.jpg" />
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-structure-of-science.jpg" />
 </p>
 
 *Modeling Integration* - Support into the Mastodon instance for rendering Jupyter notebooks will enable the rendering of complex simulations in service of specific technical arguments.
