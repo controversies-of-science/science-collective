@@ -18,6 +18,24 @@ Science Collective would be a fork of [the Mastodon project](https://joinmastodo
     <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-decline-in-conceptual-revolutions.jpg" width="50%" />
 </p>
 
+The social network's primary purpose would be to set up a self-supporting ecosystem to support the elaboration of groundbreaking science claims into predictive scientific hypotheses.  To get to that primary objective, science collective breaks the problem down into its constituent components:
+
+1. Creating the infrastructure required to support the aggregation of information about scientific controversies.
+
+2. Supplementing their existing science education with details that are crucial for understanding controversial and groundbreaking science claims.
+
+3. Establishing a process which can over time help people to think about science claims at a higher, more critical level.
+
+<p align="center">
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-5-stages-of-the-mind.jpg" width="50%" />
+</p>
+
+4. Creating a space for critique of scientific theories and science journalism.
+
+<p align="center">
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-why-critique-science.jpg" width="50%" />
+</p>
+
 The fork's primary features would include:
 
 *Organizational Discourse Schema* - Organization of discussion into a schema which is intended to distinguish the types of scientific discourse, reducing unnecessary conflict within particular topics and enhancing the capabilities of each community by supporting specific roles, patterns of behavior and discovery needs.
@@ -64,15 +82,15 @@ Rather than forcing users to choose between the wiki and controversy card format
     <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-anti-pattern-of-settled-science.jpg" width="50%" />
 </p>
 
-<p align="center">
-    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-controversy-first-science-education.jpg" width="50%" />
-</p>
-
 [Mastodon's User Guide](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/User-guide.md)
 
 > When you have a hashtag search open, it will automatically update with new toots. You can pin the column to keep the search open by clicking the settings symbol at the top right of the hashtag search column and clicking "pin".
 
 *An Interface for Users to Track Numerous Controversial Claims* - This is simply a meta-tracking panel which shows metadata for each of the hashtags which a user is following.
+
+<p align="center">
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-controversy-first-science-education.jpg" width="50%" />
+</p>
 
 *A System for Assigning Expertise to Users* - As users track controversies, they are encouraged to establish their expertise through a set of activities: 
 
