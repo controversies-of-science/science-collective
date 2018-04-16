@@ -1,34 +1,68 @@
+<p align="center">
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/facebook-wall-1.png" width="50%" />
+</p>
+
 # Mastodon Science Collective
 
+<p align="center">
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/facebook-wall-2.png" width="50%" />
+</p>
+
 Science Collective would be a fork of [the Mastodon project](https://joinmastodon.org/) which I hope to create and maintain to service the maverick science community.  The idea is that each maverick science thought leader would spin up their own [Twitter clone](https://mastodon.social/web/getting-started) dedicated to their particular project.  All of these instances can [federate with one another](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/User-guide.md#decentralization-and-federation) to form into meta-communities, and the fork would be designed to specifically support collaboration between these independent science communities.
+
+<p align="center">
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-prescientific-judgment-of-new-ideas.jpg" width="50%" />
+</p>
+
+<p align="center">
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-decline-in-conceptual-revolutions.jpg" width="50%" />
+</p>
 
 The fork's primary features would include:
 
 *Organizational Discourse Schema* - Organization of discussion into a schema which is intended to distinguish the types of scientific discourse, reducing unnecessary conflict within particular topics and enhancing the capabilities of each community by supporting specific roles, patterns of behavior and discovery needs.
 
 <p align="center">
-    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-structure-of-science.jpg" width="400px" />
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-structure-of-science.jpg" width="50%" />
 </p>
 
 *Modeling Integration* - Support into the Mastodon instance for rendering Jupyter notebooks will enable the rendering of complex simulations in service of specific technical arguments.
+
+<p align="center">
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-why-outsider-mavericks-matter-in-science.jpg" width="50%" />
+</p>
 
 *Prediction Market Tracking, Integration and Standardization* - Integration of the Auger blockchain for registering and betting on scientific predictions; will probably require the creation of prediction standards to label those predictions which avoid common, predictable mistakes.
 
 *Bounty-Based Moderation Reward Schema* - Karma-like system where ERC20 tokens are used to reward the site's moderation and early adopters.  Roles specifically suited for peer review are built into a checks-and-balances system ecology for reviewing content.  There would be rewards for identifying pertinent content (especially vindications); for proposing novel conjectures or analysis; for creating wikis and controversy cards which users end up actually using for annotations; for participating in the judgment of reviews; for exposing undesired behaviors on the site; for annotating content; etc.
 
 <p align="center">
-    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-crowdsourcing-of-scientific-controversies.jpg" width="400px" />
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-crowdsourcing-of-scientific-controversies.jpg" width="50%" />
 </p>
 
 *A Federated System for Annotating Scientific Papers* - All federated sites can activate annotations according to Mastodon instance, for the automated tagging of textual content.  They can also generate their own conceptual labels, which all of the various social networks vote upon.  Users and moderators would rate the usage of these wiki labels as annotations, with the hope that laypeople can use this tool to understand complex scientific papers.
 
-*Controversy Card Annotations* - Rather than forcing users to choose between the wiki and controversy card formats, I'll provide both options.  The controversy card format would be more story-based, more rooted in passing on crucial sources, more graphical, and also more useful for sharing content to social media.  Also, theorists would be provided with tools to moderate the creation of this content -- whereas modifications to the wikis would be more open.
+<p align="center">
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-annotation-of-scientific-papers.jpg" width="50%" />
+</p>
+
+*Controversy Card Annotations* - This is a library, partially constructed, of topics that are necessary to understand in the domain of scientific controversies.  There are currently [182 controversy cards](https://plus.google.com/collection/Yhn4Y).
+
+Rather than forcing users to choose between the wiki and controversy card formats, I'll provide both options.  The controversy card format would be more story-based, more rooted in passing on crucial sources, more graphical, and also more useful for sharing content to social media.  Also, theorists would be provided with tools to moderate the creation of this content -- whereas modifications to the wikis would be more open.
 
 *Social Media Article Snapshot Tool* - A tool (possibly a chrome plugin?) for snapshotting science journalism quotes with the same color schema for font color and background, but with preferred font size, custom highlighting and framing options.  The tool would identify the original font, then reconstruct the quote (assuming that the font is accessible).  It would also present a variety of formats which would allow placement of either (or both) of an image and title from the article into the social media share.  I could incorporate this into the existing quotes database as metadata, and open the system to participation by others.
 
 *Federated Science Collective Search* - A component which can be placed onto a Mastodon instance which permits searching through all science collectives.
 
+<p align="center">
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversies-of-science-homepage.jpg" width="50%" />
+</p>
+
 *A Process for Grooming Questions Into Testable Hypotheses* - This process is meant as a solution to the publish-or-perish problem, where researchers are subjected to a constant pressure to publish results even though original research can require decades to elaborate.  Each stage involves feedback.  The process begins with a question.  These questions do not have to necessarily be original; they can simply be questions about existing hypotheses which a person has just recently learned about.  If vindications can be found, they are then aggregated through a collaborative process known as tracking.  All of this tracking and discussion bins under the unique hashtag which is assigned to the original question.  As tracking progresses, any user can submit a request for review, which involves summarizing the claim, question or controversy as length-limited answers to a series of standard questions for a broader audience, who then weigh in on whether or not a controversy card should be created (the next step in this process).  Tracking does not stop once a controversy card is created, and at any point through the process, challenges can be lodged w/ their own hashtags, which then also become a focus for discussion.
+
+<p align="center">
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-controversy-first-science-education.jpg" width="50%" />
+</p>
 
 [Mastodon's User Guide](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/User-guide.md)
 
