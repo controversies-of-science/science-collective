@@ -1,10 +1,14 @@
 # Mastodon Science Collective
 
-Science Collective would be a fork of the Mastodon project which I hope to create and maintain to service the maverick science community.  The idea is that each maverick science thought leader would spin up their own Twitter clone dedicated to their particular project.  All of these instances can federate with one another to form into meta-communities, and the fork would be designed to specifically support collaboration between these independent science communities.
+Science Collective would be a fork of [the Mastodon project](https://joinmastodon.org/) which I hope to create and maintain to service the maverick science community.  The idea is that each maverick science thought leader would spin up their own [Twitter clone](https://mastodon.social/web/getting-started) dedicated to their particular project.  All of these instances can [federate with one another](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/User-guide.md#decentralization-and-federation) to form into meta-communities, and the fork would be designed to specifically support collaboration between these independent science communities.
 
 The fork's primary features would include:
 
 *Organizational Discourse Schema* - Organization of discussion into a schema which is intended to distinguish the types of scientific discourse, reducing unnecessary conflict within particular topics and enhancing the capabilities of each community by supporting specific roles, patterns of behavior and discovery needs.
+
+<p align="center">
+    <img src="https://github.com/worldviewer/science-collective/blob/master/controversy-card-the-structure-of-science.jpg" />
+</p>
 
 *Modeling Integration* - Support into the Mastodon instance for rendering Jupyter notebooks will enable the rendering of complex simulations in service of specific technical arguments.
 
@@ -48,7 +52,7 @@ The way that we will support these activities is to create the infrastructure re
 
 I don't expect this feature to exist right away, because there needs to be enough social network history for there to be a need to condense the existing feeds into a more targeted service.
 
-*A System for Categorizing Contributions* - The following list is a schema which can act as the basis for categorizing, rewarding and discovering the informational content that is the backbone for tracking scientific controversies.
+*A System for Categorizing Contributions* - The following list is a schema which can act as the basis for categorizing, rewarding and discovering the informational content that is the backbone for tracking scientific controversies.  I don't expect that participants would always bin these properly, so there would need to be a process for correcting binning mistakes.
 
 **THE CLASH OF WORLDVIEWS**
 
