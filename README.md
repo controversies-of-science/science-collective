@@ -61,6 +61,10 @@ Rather than forcing users to choose between the wiki and controversy card format
 *A Process for Grooming Questions Into Testable Hypotheses* - This process is meant as a solution to the publish-or-perish problem, where researchers are subjected to a constant pressure to publish results even though original research can require decades to elaborate.  Each stage involves feedback.  The process begins with a question.  These questions do not have to necessarily be original; they can simply be questions about existing hypotheses which a person has just recently learned about.  If vindications can be found, they are then aggregated through a collaborative process known as tracking.  All of this tracking and discussion bins under the unique hashtag which is assigned to the original question.  As tracking progresses, any user can submit a request for review, which involves summarizing the claim, question or controversy as length-limited answers to a series of standard questions for a broader audience, who then weigh in on whether or not a controversy card should be created (the next step in this process).  Tracking does not stop once a controversy card is created, and at any point through the process, challenges can be lodged w/ their own hashtags, which then also become a focus for discussion.
 
 <p align="center">
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-anti-pattern-of-settled-science.jpg" width="50%" />
+</p>
+
+<p align="center">
     <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-controversy-first-science-education.jpg" width="50%" />
 </p>
 
@@ -88,9 +92,17 @@ The way that we will support these activities is to create the infrastructure re
 
 *A System for Measuring a User's Generalization* - This would be a discovery-type tool which measures the breadth of a user's participation, and helps them to identify their own blindspots through exposure to new controversies outside of their preferred specialization.
 
+<p align="center">
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-generalist.jpg" width="50%" />
+</p>
+
 I don't expect this feature to exist right away, because there needs to be enough social network history for there to be a need to condense the existing feeds into a more targeted service.
 
 *A System for Categorizing Contributions* - The following list is a schema which can act as the basis for categorizing, rewarding and discovering the informational content that is the backbone for tracking scientific controversies.  I don't expect that participants would always bin these properly, so there would need to be a process for correcting binning mistakes.
+
+<p align="center">
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-innovations-long-tail.jpg" width="50%" />
+</p>
 
 **THE CLASH OF WORLDVIEWS**
 
