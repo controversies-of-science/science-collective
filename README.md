@@ -11,7 +11,7 @@
 Science Collective would be a fork of [the Mastodon project](https://joinmastodon.org/) which I hope to create and maintain to service the maverick science community.  The idea is that each maverick science thought leader would spin up their own [Twitter clone](https://mastodon.social/web/getting-started) dedicated to their particular project.  All of these instances can [federate with one another](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/User-guide.md#decentralization-and-federation) to form into meta-communities, and the fork would be designed to specifically support collaboration between these independent science communities.
 
 <p align="center">
-| [The Pre-Scientific Judgment of New Ideas](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-prescientific-judgment-of-new-ideas.jpg") | [The Decline in Conceptual Revolutions](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-decline-in-conceptual-revolutions.jpg) |
+| [![The Pre-Scientific Judgment of New Ideas](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-prescientific-judgment-of-new-ideas.jpg")](https://www.controversiesofscience.com/pre-scientific-judgment/worldview/card) | [![The Decline in Conceptual Revolutions](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-decline-in-conceptual-revolutions.jpg)](https://www.controversiesofscience.com/conceptual-revolutions/worldview/card) |
 |:---:|:---:|
 | Caption 1 | Caption 2 |
 </p>
