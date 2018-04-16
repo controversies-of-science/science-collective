@@ -1,22 +1,16 @@
 <p align="center">
-    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/facebook-wall-1.png" width="33%" />
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/facebook-wall-1.png" width="66%" />
 </p>
 
 # Mastodon Science Collective
 
 <p align="center">
-    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/facebook-wall-2.png" width="33%" />
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/facebook-wall-2.png" width="66%" />
 </p>
 
 Science Collective would be a fork of [the Mastodon project](https://joinmastodon.org/) which I hope to create and maintain to service the maverick science community.  The idea is that each maverick science thought leader would spin up their own [Twitter clone](https://mastodon.social/web/getting-started) dedicated to their particular project.  All of these instances can [federate with one another](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/User-guide.md#decentralization-and-federation) to form into meta-communities, and the fork would be designed to specifically support collaboration between these independent science communities.
 
-<p align="center">
-    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-prescientific-judgment-of-new-ideas.jpg" width="33%" />
-</p>
-
-<p align="center">
-    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-decline-in-conceptual-revolutions.jpg" width="33%" />
-</p>
+| <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-prescientific-judgment-of-new-ideas.jpg" width="33%" /> | <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-decline-in-conceptual-revolutions.jpg" width="33%" /> |
 
 The social network's primary purpose would be to set up a self-supporting ecosystem to support the elaboration of groundbreaking science claims into predictive scientific hypotheses.  To get to that primary objective, science collective breaks the problem down into its constituent components:
 
