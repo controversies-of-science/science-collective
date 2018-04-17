@@ -70,19 +70,15 @@ Rather than forcing users to choose between the wiki and controversy card format
 
 *A Process for Grooming Questions Into Testable Hypotheses* - This process is meant as a solution to the publish-or-perish problem, where researchers are subjected to a constant pressure to publish results even though original research can require decades to elaborate.  Each stage involves feedback.  The process begins with a question.  These questions do not have to necessarily be original; they can simply be questions about existing hypotheses which a person has just recently learned about.  If vindications can be found, they are then aggregated through a collaborative process known as tracking.  All of this tracking and discussion bins under the unique hashtag which is assigned to the original question.  As tracking progresses, any user can submit a request for review, which involves summarizing the claim, question or controversy as length-limited answers to a series of standard questions for a broader audience, who then weigh in on whether or not a controversy card should be created (the next step in this process).  Tracking does not stop once a controversy card is created, and at any point through the process, challenges can be lodged w/ their own hashtags, which then also become a focus for discussion.
 
-<p align="center">
-    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-anti-pattern-of-settled-science.jpg" width="33%" />
-</p>
-
 [Mastodon's User Guide](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/User-guide.md)
 
 > When you have a hashtag search open, it will automatically update with new toots. You can pin the column to keep the search open by clicking the settings symbol at the top right of the hashtag search column and clicking "pin".
 
 *An Interface for Users to Track Numerous Controversial Claims* - This is simply a meta-tracking panel which shows metadata for each of the hashtags which a user is following.
 
-<p align="center">
-    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-controversy-first-science-education.jpg" width="33%" />
-</p>
+| [![The Anti-Pattern of Settled Science](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-anti-pattern-of-settled-science.jpg)](https://www.controversiesofscience.com/settled-science/worldview/card) | [![Controversy-First Science Education](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-controversy-first-science-education.jpg)](https://www.controversiesofscience.com/controversy-first-science-education/worldview/card) |
+|:---:|:---:|
+| My thesis is that the tracking of scientific controversies over time is the secret missing sauce to evaluating what claims to focus upon | By flipping our approach, the maverick thinker is motivated to learn to think like a scientist through actual practice |
 
 *A System for Assigning Expertise to Users* - As users track controversies, they are encouraged to establish their expertise through a set of activities: 
 
