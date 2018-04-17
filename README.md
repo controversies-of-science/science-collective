@@ -30,7 +30,7 @@ The social network's primary purpose would be to set up a self-supporting ecosys
 
 The fork's primary features would include:
 
-*A Discourse Schema Which Brings Order to Process and the Space* - The site would introduce a social network structure for discussion into a schema which is intended to distinguish the types of scientific discourse.  This schema is intended to reduce unnecessary conflict within particular topics and enhance the capabilities of each community by supporting specific roles, patterns of behavior and discovery needs.
+*A Discourse Schema Which Brings Order to Process and the Space* - The site would introduce a social network structure for discussion which is intended to distinguish the types of scientific discourse.  This schema is intended to reduce unnecessary conflict between people who are attempting to advance existing models, and people who are attempting to navigate to new arguments and models.  My thesis is that creating a platform where these two types of people are more likely to work together could generate breakthroughs.
 
 *Modeling Integration* - Support into the Mastodon instance for rendering Jupyter notebooks will enable the rendering of complex simulations in service of specific technical arguments.
 
