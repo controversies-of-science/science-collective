@@ -88,7 +88,9 @@ Compared to wikis, the controversy card format is more story-based, more focused
     </a>
 </p>
 
-*Social Media Article Snapshot Tool* - This would be a tool (possibly a chrome plugin?) for snapshotting science journalism quotes with the same color schema for font color and background, but with preferred font size, custom highlighting and framing options.  The tool would identify the original font, then reconstruct the quote (assuming that the font is accessible).  It would also present a variety of formats which would allow placement of either (or both) of an image and title from the article into the social media share.  I could incorporate this into the existing quotes database as metadata, and open the system to participation by others.
+*Social Media Article Snapshot Tool* - The point of this tool is to simplify the process of sharing quotes to social media platforms.
+
+This would be a tool (possibly a chrome plugin?) for snapshotting science journalism quotes with the same color schema for font color and background, but with preferred font size, custom highlighting and framing options.  The tool would identify the original font, then reconstruct the quote (assuming that the font is accessible).  It would also present a variety of formats which would allow placement of either (or both) of an image and title from the article into the social media share.  I could incorporate this into the existing quotes database as metadata, and open the system to participation by others.
 
 *A Process for Grooming Questions Into Testable Hypotheses* - This process is meant as a solution to the publish-or-perish problem, where researchers are subjected to a constant pressure to publish results even though original research can require decades to elaborate.
 
@@ -202,13 +204,13 @@ I don't expect this feature to exist right away, because there needs to be enoug
 
 ## About Me
 
-My name is Chris Reeve, and I have been tracking scientific controversies as a hobby for 12 years now.  I have a Bachelors in Electrical and Computer Engineering from Carnegie Mellon University.  My interest in scientific controversies began when I embedded myself into [an against-the-mainstream group of theorists who have struggled to have their arguments heard out](http://www.thunderbolts.info).
+My name is Chris Reeve, and I have been tracking scientific controversies as a layperson for 12 years now.  I have a Bachelors in Electrical and Computer Engineering from Carnegie Mellon University.  My interest in scientific controversies began when I embedded myself into [an against-the-mainstream group of theorists who have struggled to have their arguments heard out](http://www.thunderbolts.info).
 
 Since then, I have created the [Controversies of Science search portal prototype](https://www.controversiesofscience.com) to showcase my existing collection of [182 controversy cards](https://plus.google.com/collection/Yhn4Y).
 
-I am now attempting to apply what I've learned from those experiences running claims aginst critics and the public, towards the creation of a scientific social network where maverick layperson thinkers work with science specialists and academic researchers to vet and aggregate information about challenges to entrenched scientific theories.
+I am now attempting to apply what I've learned from those experiences running claims against critics and the public, towards the creation of a scientific social network where maverick layperson thinkers work with science specialists and academic researchers to vet and aggregate information about challenges to entrenched scientific theories.
 
-I became a full-stack engineer 3 years ago, in part to create this social network.  Today, I am a React developer building out an e-commerce site for a stealth startup in San Francisco, CA.  While the ideas presented here may sound lofty, it is my long-term mission in life to reform the way our culture interacts with controversial science claims.  I intend to track scientific controversies for the remainder of my life, because I feel that tracking is the missing ingredient which modern science needs to avoid [innovation starvation](https://www.controversiesofscience.com/innovation-starvation/worldview/card).
+I became a full-stack engineer 3 years ago, in part to create this social network.  Today, I am a React developer building out an e-commerce site for a stealth startup in San Francisco, CA.  While the ideas presented here may sound lofty, it is my long-term mission in life to reform the way our culture interacts with controversial science claims.  I will continue to track scientific controversies for the remainder of my life, because I feel that tracking is the missing ingredient which modern science needs to avoid [innovation starvation](https://www.controversiesofscience.com/innovation-starvation/worldview/card).
 
 <p align="center">
     <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/chris-giving-talk.png" width="50%" />
