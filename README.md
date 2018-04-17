@@ -67,7 +67,9 @@ Compared to wikis, the controversy card format is more story-based, more focused
 *Federated Science Collective Search* - A component which can be placed onto a Mastodon instance which permits searching through all science collectives.
 
 <p align="center">
-    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversies-of-science-homepage.png" width="33%" />
+    <a href="https://www.controversiesofscience.com">
+        <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversies-of-science-homepage.png" width="33%" />
+    </a>
 </p>
 
 *A Process for Grooming Questions Into Testable Hypotheses* - This process is meant as a solution to the publish-or-perish problem, where researchers are subjected to a constant pressure to publish results even though original research can require decades to elaborate.  Each stage involves feedback.  The process begins with a question.  These questions do not have to necessarily be original; they can simply be questions about existing hypotheses which a person has just recently learned about.  If vindications can be found, they are then aggregated through a collaborative process known as tracking.  All of this tracking and discussion bins under the unique hashtag which is assigned to the original question.  As tracking progresses, any user can submit a request for review, which involves summarizing the claim, question or controversy as length-limited answers to a series of standard questions for a broader audience, who then weigh in on whether or not a controversy card should be created (the next step in this process).  Tracking does not stop once a controversy card is created, and at any point through the process, challenges can be lodged w/ their own hashtags, which then also become a focus for discussion.
