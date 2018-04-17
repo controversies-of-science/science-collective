@@ -24,7 +24,7 @@ The social network's primary purpose would be to set up a self-supporting ecosys
 
 4. Creating a space for critique of scientific theories and science journalism.
 
-| [![The 5 Stages of the Mind](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-5-stages-of-the-mind.jpg)]() | [![Why Critique Science](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-why-critique-science.jpg)]() |
+| [![The 5 Stages of the Mind](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-5-stages-of-the-mind.jpg)](https://www.controversiesofscience.com/the-5-stages-of-the-mind/worldview/card) | [![Why Critique Science](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-why-critique-science.jpg)](https://www.controversiesofscience.com/critique-science/worldview/card) |
 |:---:|:---:|
 | Science education and science journalism both encourage an approach to science which can stunt our cognitive development | One way to address the problem is to seek out the best critiques we can find |
 
@@ -32,15 +32,11 @@ The fork's primary features would include:
 
 *Organizational Discourse Schema* - Organization of discussion into a schema which is intended to distinguish the types of scientific discourse, reducing unnecessary conflict within particular topics and enhancing the capabilities of each community by supporting specific roles, patterns of behavior and discovery needs.
 
-<p align="center">
-    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-structure-of-science.jpg" width="33%" />
-</p>
-
 *Modeling Integration* - Support into the Mastodon instance for rendering Jupyter notebooks will enable the rendering of complex simulations in service of specific technical arguments.
 
-<p align="center">
-    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-why-outsider-mavericks-matter-in-science.jpg" width="33%" />
-</p>
+| [![Why Outsider Mavericks Matter](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-why-outsider-mavericks-matter-in-science.jpg)](https://www.controversiesofscience.com/outsider-mavericks/worldview/card) | [![The Structure of Science](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-structure-of-science.jpg)](https://www.controversiesofscience.com/structure-of-science/worldview/card) |
+|:---:|:---:|
+| Since certain groundbreaking scientific advances require that we reject some pre-existing theory, these problems are more likely to be resolved by maverick thinkers with little investment in the current ideas | By bringing a newfound sense of organizational order to challenges to mainstream theory, it should be possible to enhance innovation in the sciences |
 
 *Prediction Market Tracking, Integration and Standardization* - Integration of the Auger blockchain for registering and betting on scientific predictions; will probably require the creation of prediction standards to label those predictions which avoid common, predictable mistakes.
 
