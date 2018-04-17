@@ -44,7 +44,7 @@ The fork's primary features would include:
 
 *Bounty-Based Moderation Reward Schema* - Karma-like system where ERC20 tokens are used to reward the site's moderation and early adopters.  Roles specifically suited for peer review are built into a checks-and-balances system ecology for reviewing content.  There would be rewards for identifying pertinent content (especially vindications); for proposing novel conjectures or analysis; for creating wikis and controversy cards which users end up actually using for annotations; for participating in the judgment of reviews; for exposing undesired behaviors on the site; for annotating content; etc.
 
-(I do not assume that Ethereum will figure out how to scale, so it may make sense to hold off on implementation of the blockchain aspects of this proposal until then.)
+(I do not assume that Ethereum will figure out how to scale, so it may make sense to hold off on implementation of the blockchain aspects of this proposal until a scalable blockchain exists.)
 
 *A Federated System for Annotating Scientific Papers* - All federated sites can activate libraries of annotations according to Mastodon instance.  These are basically tags where keywords are assigned a ranked, context-filtered list of informational bits, for the purpose of automatic tagging of textual content.  Over time, users and moderators would rate the utility of (and contextually bin) these annotations, with the hope that laypeople can eventually use this tool to understand complex scientific papers.  It's sort of like an annotation version of wikipedia, but specifically directed at helping people to read scientific papers that are difficult to understand.
 
