@@ -82,7 +82,7 @@ Compared to wikis, the controversy card format is more story-based, more focused
     <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-pressure-to-publish.jpg" width="100%" />
 </a>
 
-Each stage involves feedback.  The process begins with a proposition -- a question, claim or conjecture.  These questions do not have to necessarily be original; they can simply be questions about existing hypotheses which a person wants to actively track.
+Each stage involves feedback.  The process begins with a proposition -- a question, claim or conjecture.  These propositions do not have to necessarily be original; they can simply be questions about existing hypotheses which a person wants to actively track.
 
 If vindications can be found, they are then aggregated through a collaborative process known as tracking.  All of this tracking and discussion bins under the unique hashtag which is assigned to the original question.  As tracking progresses, any user can submit a request for review, which involves summarizing the claim, question or controversy as length-limited answers to a series of standard questions for a broader audience, who then weigh in on whether or not a controversy card should be created (the next step in this process).  Tracking does not stop once a controversy card is created, and at any point through the process, challenges can be lodged w/ their own hashtags, which then also become a focus for discussion.
 
