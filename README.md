@@ -4,6 +4,8 @@
 
 # The Mastodon Science Collective
 
+## The Basic Idea
+
 <p align="center">
     <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/facebook-wall-2.png" width="66%" />
 </p>
@@ -26,6 +28,8 @@ The social network's primary purpose would be to set up a self-supporting ecosys
 |:---:|:---:|
 | Science education and science journalism both encourage an approach to science which can stunt our cognitive development | One way to address the problem is to seek out the best critiques we can find |
 
+## A Detailed Look at How this System Would Work
+
 The fork's primary features would include:
 
 *A Discourse Schema Which Brings Order to Process and the Against-the-Mainstream Science Space* - The site would introduce a structure for discussion which is intended to distinguish the different types of scientific discourse, because people who are seeking to elaborate existing models can oftentimes clash with people who are questioning assumptions and starting-point hypotheses for the purpose of constructing new models.
@@ -34,9 +38,9 @@ This schema -- which bases upon science's structural elements: it's concepts, pr
 
 *Modeling Integration* - Support into the Mastodon instance for rendering [Jupyter notebooks](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html) will enable the rendering of complex simulations in service of specific technical arguments.  Jupyter is sort of like an open-source, embeddable version of Mathematica.  See [The Scientific Paper is Obsolete](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/) for more information.
 
-> I spoke to Theodore Gray, who has since left Wolfram Research to become a full-time writer. He said that his work on the notebook was in part motivated by the feeling, well formed already by the early 1990s, “that obviously all scientific communication, all technical papers that involve any sort of data or mathematics or modeling or graphs or plots or anything like that, obviously don’t belong on paper. That was just completely obvious in, let’s say, 1990,” he said.
+> I spoke to Theodore Gray, who has since left Wolfram Research to become a full-time writer. He said that his work on the notebook was in part motivated by the feeling, well formed already by the early 1990s, **“that obviously all scientific communication, all technical papers that involve any sort of data or mathematics or modeling or graphs or plots or anything like that, obviously don’t belong on paper. That was just completely obvious in, let’s say, 1990,” he said.**
 >
-> “It’s been a source of ongoing bafflement and consternation for the past 29 years, that with the exception of a few people who get it, the community at large hasn’t really adopted it,” he said. “It’s incalculable, literally ... how much is lost, and how much time is wasted, and how many results are misinterpreted or are misrepresented.”
+> “It’s been a source of ongoing bafflement and consternation for the past 29 years, that with the exception of a few people who get it, the community at large hasn’t really adopted it,” he said. **“It’s incalculable, literally ... how much is lost, and how much time is wasted, and how many results are misinterpreted or are misrepresented.”**
 
 | [![Why Outsider Mavericks Matter in Science](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-why-outsider-mavericks-matter-in-science.jpg)](https://www.controversiesofscience.com/outsider-mavericks/worldview/card) |
 |:---:|
@@ -48,7 +52,9 @@ This schema -- which bases upon science's structural elements: it's concepts, pr
 
 *Prediction Market Tracking, Integration and Standardization* - Integration of [the Auger blockchain](http://www.augur.net/) for registering and betting on scientific predictions; will probably require the creation of prediction standards to label those predictions which avoid common, predictable mistakes.
 
-*Bounty-Based Moderation Reward Schema* - Karma-like system where [ERC20 tokens](https://hackernoon.com/erc20-tokens-b3b50c95ad08) are used to reward the site's moderation and early adopters, similar in principle to how the [Steem-It social network](https://en.wikipedia.org/wiki/Steemit) operates.  Roles specifically suited for peer review are built into a checks-and-balances system ecology for reviewing content.  There would be rewards for identifying pertinent content (especially vindications); for proposing novel conjectures or analysis; for creating wikis and controversy cards which users end up actually using for annotations; for participating in the judgment of reviews; for exposing undesired behaviors on the site; for annotating content; etc.
+*Integration with the Institute for Venture Science* - If there exists interest, my hope would be to work with Dr. Gerald Pollack of the University of Washington to fast-track the creation of controversy cards related to challenges being reviewed or funded by the [Institute for Venture Science](https://ivscience.org/).  The IVS has devised [a unique process for judging whether or not challenges to entrenched science research topics should be funded](https://www.controversiesofscience.com/ivs-process/worldview/card), and they are currently seeking out benefactors.  Much of the science collective idea was inspired by, and designed to work with, Dr. Pollack's IVS concept.
+
+*Bounty-Based Moderation Reward Schema* - This would be a karma-like system where [ERC20 tokens](https://hackernoon.com/erc20-tokens-b3b50c95ad08) are used to reward the site's moderation and early adopters, similar in principle to how the [Steem-It social network](https://en.wikipedia.org/wiki/Steemit) operates.  Roles specifically suited for peer review are built into a checks-and-balances system ecology for reviewing content.  There would be rewards for identifying pertinent content (especially vindications); for proposing novel conjectures or analysis; for creating wikis and controversy cards which users end up actually using for annotations; for participating in the judgment of reviews; for exposing undesired behaviors on the site; for annotating content; etc.
 
 ([I do not assume that Ethereum will figure out how to scale](https://www.coindesk.com/information/will-ethereum-scale/), so it may make sense to hold off on implementation of the blockchain aspects of this proposal until a scalable blockchain exists.)
 
