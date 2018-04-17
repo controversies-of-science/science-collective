@@ -12,7 +12,7 @@ Science Collective would be a fork of [the Mastodon project](https://joinmastodo
 
 | [![The Pre-Scientific Judgment of New Ideas](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-prescientific-judgment-of-new-ideas.jpg)](https://www.controversiesofscience.com/pre-scientific-judgment/worldview/card) | [![The Decline in Conceptual Revolutions](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-decline-in-conceptual-revolutions.jpg)](https://www.controversiesofscience.com/conceptual-revolutions/worldview/card) |
 |:---:|:---:|
-| Caption 1 | Caption 2 |
+| There exists a cultural tendency today to judge complex scientific claims before enough details have been collected to justify those judgments | Is it possible that the rate of innovation in the sciences has been affected by cultural tendencies like this? |
 
 The social network's primary purpose would be to set up a self-supporting ecosystem to support the elaboration of groundbreaking science claims into predictive scientific hypotheses.  To get to that primary objective, science collective breaks the problem down into its constituent components:
 
@@ -22,15 +22,11 @@ The social network's primary purpose would be to set up a self-supporting ecosys
 
 3. Establishing a process which can over time help people to think about science claims at a higher, more critical level.
 
-<p align="center">
-    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-5-stages-of-the-mind.jpg" width="33%" />
-</p>
-
 4. Creating a space for critique of scientific theories and science journalism.
 
-<p align="center">
-    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-why-critique-science.jpg" width="33%" />
-</p>
+| [![The 5 Stages of the Mind](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-5-stages-of-the-mind.jpg)]() | [![Why Critique Science](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-why-critique-science.jpg)]() |
+|:---:|:---:|
+| Science education and science journalism both encourage an approach to science which can stunt our cognitive development | One way to address the problem is to seek out the best critiques we can find |
 
 The fork's primary features would include:
 
