@@ -52,6 +52,10 @@ This schema -- which bases upon science's structural elements: it's concepts, pr
 
 *Prediction Market Tracking, Integration and Standardization* - Integration of [the Auger blockchain](http://www.augur.net/) for registering and betting on scientific predictions; will probably require the creation of prediction standards to label those predictions which avoid common, predictable mistakes.
 
+| [![The Science Futures Market](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-science-futures-market.jpg)](https://www.controversiesofscience.com/science-futures-market/worldview/card) |
+|:---:|
+| Although not all domains lend themselves well to the futures market approach, there are some specific areas where it can work quite well |
+
 *Integration with the Institute for Venture Science* - If there exists interest, my hope would be to work with Dr. Gerald Pollack of the University of Washington to fast-track the creation of controversy cards related to challenges being reviewed or funded by the [Institute for Venture Science](https://ivscience.org/).  The IVS has devised [a unique process for judging whether or not challenges to entrenched science research topics should be funded](https://www.controversiesofscience.com/ivs-process/worldview/card), and they are currently seeking out benefactors.  Much of the science collective idea was inspired by, and designed to work with, Dr. Pollack's IVS concept.
 
 | [![The Institute for Venture Science Process](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-institute-for-venture-science-process.jpg)](https://www.controversiesofscience.com/ivs-process/worldview/card) |
