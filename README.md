@@ -202,11 +202,13 @@ I don't expect this feature to exist right away, because there needs to be enoug
 
 ## About Me
 
-My name is Chris Reeve, and I have been studying scientific controversies for 12 years now.  I have a Bachelors in Electrical and Computer Engineering from Carnegie Mellon University.  My interest in scientific controversies began when I embedded myself into an against-the-mainstream group of theorists who have struggled to have their arguments heard out.
+My name is Chris Reeve, and I have been tracking scientific controversies as a hobby for 12 years now.  I have a Bachelors in Electrical and Computer Engineering from Carnegie Mellon University.  My interest in scientific controversies began when I embedded myself into [an against-the-mainstream group of theorists who have struggled to have their arguments heard out](http://www.thunderbolts.info).
 
 Since then, I have created the [Controversies of Science search portal prototype](https://www.controversiesofscience.com) to showcase my existing collection of [182 controversy cards](https://plus.google.com/collection/Yhn4Y).
 
-I am now attempting to apply what I've learned from those experiences running claims aginst their best critics, towards the creation of scientific social network where maverick layperson thinkers work with science specialists and academic researchers to vet and aggregate information about challenges to entrenched scientific theories.  I became a full-stack engineer 3 years ago, in part to create this social network.  Today, I am a React developer building out an e-commerce site for a stealth startup in San Francisco, CA.  While the ideas presented here may sound lofty, it is my mission in life to reform the way our culture interacts with controversial science claims.
+I am now attempting to apply what I've learned from those experiences running claims aginst critics and the public, towards the creation of a scientific social network where maverick layperson thinkers work with science specialists and academic researchers to vet and aggregate information about challenges to entrenched scientific theories.
+
+I became a full-stack engineer 3 years ago, in part to create this social network.  Today, I am a React developer building out an e-commerce site for a stealth startup in San Francisco, CA.  While the ideas presented here may sound lofty, it is my long-term mission in life to reform the way our culture interacts with controversial science claims.  I intend to track scientific controversies for the remainder of my life, because I feel that tracking is the missing ingredient which modern science needs to avoid [innovation starvation](https://www.controversiesofscience.com/innovation-starvation/worldview/card).
 
 <p align="center">
     <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/chris-giving-talk.png" width="50%" />
