@@ -40,13 +40,13 @@ The fork's primary features would include:
 |:---:|
 | By bringing a newfound sense of organizational order to challenges to mainstream theory, it should be possible to enhance innovation in the sciences |
 
-*Prediction Market Tracking, Integration and Standardization* - Integration of the Auger blockchain for registering and betting on scientific predictions; will probably require the creation of prediction standards to label those predictions which avoid common, predictable mistakes.
+*Prediction Market Tracking, Integration and Standardization* - Integration of [the Auger blockchain](http://www.augur.net/) for registering and betting on scientific predictions; will probably require the creation of prediction standards to label those predictions which avoid common, predictable mistakes.
 
-*Bounty-Based Moderation Reward Schema* - Karma-like system where ERC20 tokens are used to reward the site's moderation and early adopters.  Roles specifically suited for peer review are built into a checks-and-balances system ecology for reviewing content.  There would be rewards for identifying pertinent content (especially vindications); for proposing novel conjectures or analysis; for creating wikis and controversy cards which users end up actually using for annotations; for participating in the judgment of reviews; for exposing undesired behaviors on the site; for annotating content; etc.
+*Bounty-Based Moderation Reward Schema* - Karma-like system where [ERC20 tokens](https://hackernoon.com/erc20-tokens-b3b50c95ad08) are used to reward the site's moderation and early adopters, similar in principle to how the [Steem-It social network](https://en.wikipedia.org/wiki/Steemit) operates.  Roles specifically suited for peer review are built into a checks-and-balances system ecology for reviewing content.  There would be rewards for identifying pertinent content (especially vindications); for proposing novel conjectures or analysis; for creating wikis and controversy cards which users end up actually using for annotations; for participating in the judgment of reviews; for exposing undesired behaviors on the site; for annotating content; etc.
 
-(I do not assume that Ethereum will figure out how to scale, so it may make sense to hold off on implementation of the blockchain aspects of this proposal until a scalable blockchain exists.)
+([I do not assume that Ethereum will figure out how to scale](https://www.coindesk.com/information/will-ethereum-scale/), so it may make sense to hold off on implementation of the blockchain aspects of this proposal until a scalable blockchain exists.)
 
-*A Federated System for Annotating Scientific Papers* - All federated sites can activate libraries of annotations according to Mastodon instance.  These are basically tags where keywords are assigned a ranked, context-filtered list of informational bits, for the purpose of automatically tagging textual content.  Over time, users and moderators would rate the utility of (and contextually bin) these annotations, with the hope that laypeople can eventually use this tool to understand complex scientific papers.  It's sort of like an annotation version of wikipedia, but specifically directed at helping people to read scientific papers that are difficult to understand.
+*A Federated System for Annotating Scientific Papers* - All federated sites can activate libraries of annotations according to Mastodon instance.  These are basically tags where keywords are assigned a ranked, context-filtered list of informational bits, for the purpose of automatically tagging textual content.  Over time, users and moderators would rate the utility of (and contextually bin) these annotations, with the hope that laypeople can eventually use this tool in the manner of an overlay, to understand complex scientific papers.  It's sort of like an annotation version of wikipedia, but specifically directed at helping people to read scientific papers that are difficult to understand.
 
 | [![The Crowdsourcing of Scientific Controversies](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-crowdsourcing-of-scientific-controversies.jpg)](https://www.controversiesofscience.com/crowdsourcing/worldview/card) |
 |:---:|
@@ -72,7 +72,13 @@ Compared to wikis, the controversy card format is more story-based, more focused
 
 *A Process for Grooming Questions Into Testable Hypotheses* - This process is meant as a solution to the publish-or-perish problem, where researchers are subjected to a constant pressure to publish results even though original research can require decades to elaborate.
 
-<a href="">
+> [NO TIME TO THINK](http://www.nature.com/polopoly_fs/1.20872!/menu/main/topColumns/topLeftColumn/pdf/538446a.pdf)
+>
+> ... Two years into the position, Hermans was feeling overwhelmed. She was grappling with the responsibilities of managing her two graduate students and one postdoc, prepping for teaching courses, and what felt like endless ‘service’ requests to review papers for journals and colleagues. The spreadsheet work had in some ways run its course, and she wanted to pivot to a more stimulating research area. But the pressure to publish continuously and copiously dogged her. Her job is formally split between 40% teaching, 40% research and 20% academic service, but the message is that research should trump everything else. 'Four papers are better than three. And five are better than four,' she says.
+> 
+> Like Alberts, she says the idea that research output is now synonymous with publication quashes all creativity. 'Papers are just one form of communicating ideas and experiments.' She yearns 'for an afternoon of looking out the window and thinking, ‘What will I do next?’'.
+
+<a href="https://www.controversiesofscience.com/pressure-to-publish/worldview/card">
     <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-pressure-to-publish.jpg" width="100%" />
 </a>
 
