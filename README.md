@@ -16,7 +16,7 @@ Science Collective would be a fork of [the Mastodon project](https://joinmastodo
 |:---:|:---:|
 | There exists a cultural tendency today to judge complex scientific claims before enough details have been collected to justify those judgments | Is it possible that the rate of innovation in the sciences has been affected by cultural tendencies like this? |
 
-The social network's primary purpose would be to set up a self-supporting ecosystem to support the elaboration of groundbreaking science claims into predictive scientific hypotheses.  To get to that primary objective, science collective breaks the problem down into its constituent components:
+The social network's primary purpose would be to set up a self-supporting ecosystem to support the vetting of challenges to entrenched scientific theories and the elaboration of groundbreaking science claims into predictive scientific hypotheses.  To get to that primary objective, science collective breaks the problem down into its constituent components:
 
 1. Creating the infrastructure required to support the aggregation of information about controversial and groundbreaking science claims and questions.
 
