@@ -79,7 +79,7 @@ This schema -- which bases upon science's structural elements: it's concepts, pr
 *Controversy Card Annotations* - This is a library, partially constructed, of topics that are necessary to understand in the domain of scientific controversies.  They bin into six categories:
 
 | category | description |
-|:---:|:---:|
+|:---:|:---|
 | ongoing | Recent, ongoing controversies |
 | historical | Controversies possibly still at play, but more historical in nature |
 | person | Some people you should know about + character studies |
