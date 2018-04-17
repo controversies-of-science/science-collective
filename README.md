@@ -46,7 +46,7 @@ The fork's primary features would include:
 
 (I do not assume that Ethereum will figure out how to scale, so it may make sense to hold off on implementation of the blockchain aspects of this proposal until a scalable blockchain exists.)
 
-*A Federated System for Annotating Scientific Papers* - All federated sites can activate libraries of annotations according to Mastodon instance.  These are basically tags where keywords are assigned a ranked, context-filtered list of informational bits, for the purpose of automatic tagging of textual content.  Over time, users and moderators would rate the utility of (and contextually bin) these annotations, with the hope that laypeople can eventually use this tool to understand complex scientific papers.  It's sort of like an annotation version of wikipedia, but specifically directed at helping people to read scientific papers that are difficult to understand.
+*A Federated System for Annotating Scientific Papers* - All federated sites can activate libraries of annotations according to Mastodon instance.  These are basically tags where keywords are assigned a ranked, context-filtered list of informational bits, for the purpose of automatically tagging textual content.  Over time, users and moderators would rate the utility of (and contextually bin) these annotations, with the hope that laypeople can eventually use this tool to understand complex scientific papers.  It's sort of like an annotation version of wikipedia, but specifically directed at helping people to read scientific papers that are difficult to understand.
 
 | [![The Crowdsourcing of Scientific Controversies](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-crowdsourcing-of-scientific-controversies.jpg)](https://www.controversiesofscience.com/crowdsourcing/worldview/card) |
 |:---:|
@@ -60,8 +60,6 @@ The fork's primary features would include:
 
 Compared to wikis, the controversy card format is more story-based, more focused on the passing on of extraordinary critique, more graphical, and also more useful for sharing content to social media.  The site would moderate the creation of controversy cards, but wikis would be open to everybody.  And since the site's schema enables people to create conflicting wikis and controversy cards in different areas, turf battles between maverick against-the-mainstream thinkers and defenders of existing theory could be replaced with discussion of the actual debate.
 
-*Social Media Article Snapshot Tool* - This would be a tool (possibly a chrome plugin?) for snapshotting science journalism quotes with the same color schema for font color and background, but with preferred font size, custom highlighting and framing options.  The tool would identify the original font, then reconstruct the quote (assuming that the font is accessible).  It would also present a variety of formats which would allow placement of either (or both) of an image and title from the article into the social media share.  I could incorporate this into the existing quotes database as metadata, and open the system to participation by others.
-
 *Federated Science Collective Search* - A component which can be placed onto a Mastodon instance which permits searching through all science collectives.
 
 <p align="center">
@@ -69,6 +67,8 @@ Compared to wikis, the controversy card format is more story-based, more focused
         <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversies-of-science-homepage.png" width="50%" />
     </a>
 </p>
+
+*Social Media Article Snapshot Tool* - This would be a tool (possibly a chrome plugin?) for snapshotting science journalism quotes with the same color schema for font color and background, but with preferred font size, custom highlighting and framing options.  The tool would identify the original font, then reconstruct the quote (assuming that the font is accessible).  It would also present a variety of formats which would allow placement of either (or both) of an image and title from the article into the social media share.  I could incorporate this into the existing quotes database as metadata, and open the system to participation by others.
 
 *A Process for Grooming Questions Into Testable Hypotheses* - This process is meant as a solution to the publish-or-perish problem, where researchers are subjected to a constant pressure to publish results even though original research can require decades to elaborate.
 
