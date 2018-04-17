@@ -78,6 +78,7 @@ This schema -- which bases upon science's structural elements: it's concepts, pr
 
 *Controversy Card Annotations* - This is a library, partially constructed, of topics that are necessary to understand in the domain of scientific controversies.  They bin into six categories:
 
+<p align="center">
 | category | description |
 |:---:|:---:|
 | ongoing | Recent, ongoing controversies |
@@ -86,6 +87,7 @@ This schema -- which bases upon science's structural elements: it's concepts, pr
 | reform | Relevant to academic reform and redesigning scientific discourse |
 | critique | The best critical commentary ever published for modern science |
 | thinking | How to think like a scientist about controversies |
+</p>
 
 The science collective fork of the Mastodon instance will be enhanced with an ability to annotate content with this controversy card content.  There are currently [182 controversy cards](https://plus.google.com/collection/Yhn4Y), but there are plans to expand this library to at least 500 cards.
 
