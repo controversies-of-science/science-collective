@@ -30,7 +30,7 @@ The social network's primary purpose would be to set up a self-supporting ecosys
 
 The fork's primary features would include:
 
-*Organizational Discourse Schema* - Organization of discussion into a schema which is intended to distinguish the types of scientific discourse, reducing unnecessary conflict within particular topics and enhancing the capabilities of each community by supporting specific roles, patterns of behavior and discovery needs.
+*A Discourse Schema Which Brings Order to Process and the Space* - The site would introduce a social network structure for discussion into a schema which is intended to distinguish the types of scientific discourse.  This schema is intended to reduce unnecessary conflict within particular topics and enhance the capabilities of each community by supporting specific roles, patterns of behavior and discovery needs.
 
 *Modeling Integration* - Support into the Mastodon instance for rendering Jupyter notebooks will enable the rendering of complex simulations in service of specific technical arguments.
 
@@ -46,7 +46,7 @@ The fork's primary features would include:
 
 *Bounty-Based Moderation Reward Schema* - Karma-like system where ERC20 tokens are used to reward the site's moderation and early adopters.  Roles specifically suited for peer review are built into a checks-and-balances system ecology for reviewing content.  There would be rewards for identifying pertinent content (especially vindications); for proposing novel conjectures or analysis; for creating wikis and controversy cards which users end up actually using for annotations; for participating in the judgment of reviews; for exposing undesired behaviors on the site; for annotating content; etc.
 
-*A Federated System for Annotating Scientific Papers* - All federated sites can activate annotations according to Mastodon instance, for the automated tagging of textual content.  They can also generate their own conceptual labels, which all of the various social networks vote upon.  Users and moderators would rate the usage of these wiki labels as annotations, with the hope that laypeople can use this tool to understand complex scientific papers.
+*A Federated System for Annotating Scientific Papers* - All federated sites can activate libraries of annotations according to Mastodon instance.  These are basically tags where keywords are assigned a ranked, context-filtered list of informational bits, for the purpose of automatic tagging of textual content.  Over time, users and moderators would rate the utility of (and contextually bin) these annotations, with the hope that laypeople can eventually use this tool to understand complex scientific papers.  It's sort of like an annotation version of wikipedia, but specifically directed at helping people to read scientific papers that are difficult to understand.
 
 | [![The Crowdsourcing of Scientific Controversies](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-crowdsourcing-of-scientific-controversies.jpg)](https://www.controversiesofscience.com/crowdsourcing/worldview/card) |
 |:---:|
