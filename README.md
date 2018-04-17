@@ -34,7 +34,7 @@ The fork's primary features would include:
 
 *Modeling Integration* - Support into the Mastodon instance for rendering Jupyter notebooks will enable the rendering of complex simulations in service of specific technical arguments.
 
-| <a href="https://www.controversiesofscience.com/outsider-mavericks/worldview/card"><img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-why-outsider-mavericks-matter-in-science.jpg" width="100%" /></a> | <a href="https://www.controversiesofscience.com/structure-of-science/worldview/card"><img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-structure-of-science.jpg" width="200%" /></a> |
+| <a href="https://www.controversiesofscience.com/outsider-mavericks/worldview/card"><img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-why-outsider-mavericks-matter-in-science.jpg" width="75%" /></a> | <a href="https://www.controversiesofscience.com/structure-of-science/worldview/card"><img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-structure-of-science.jpg" width="200%" /></a> |
 |:---:|:----:|
 | Since certain groundbreaking scientific advances require that we reject some pre-existing theory, these problems are more likely to be resolved by maverick thinkers with little investment in the current ideas | By bringing a newfound sense of organizational order to challenges to mainstream theory, it should be possible to enhance innovation in the sciences |
 
