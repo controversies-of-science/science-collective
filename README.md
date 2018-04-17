@@ -98,9 +98,13 @@ The way that we will support these activities is to create the infrastructure re
 
 *A System for Measuring a User's Generalization* - This would be a discovery-type tool which measures the breadth of a user's participation, and helps them to identify their own blindspots through exposure to new controversies outside of their preferred specialization.
 
-| [![The Generalist](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-generalist.jpg)](https://www.controversiesofscience.com/generalist/worldview/card) | [![Innovation's Long Tail](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-innovations-long-tail.jpg)](https://www.controversiesofscience.com/long-tail/worldview/card) |
-|:---:|:---:|
-| We need a platform which seeks to revive the generalist scientific tradition if we want groundbreaking breakthroughs to become a regular occurrence again | Just as Amazon.com created a "long-tail" business by supporting millions of one-off sales, we can also facilitate collaboration by creating a platform which supports one-off informational exchanges |
+| [![The Generalist](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-generalist.jpg)](https://www.controversiesofscience.com/generalist/worldview/card) | 
+|:---:|
+| We need a platform which seeks to revive the generalist scientific tradition if we want groundbreaking breakthroughs to become a regular occurrence again |
+
+| [![Innovation's Long Tail](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-innovations-long-tail.jpg)](https://www.controversiesofscience.com/long-tail/worldview/card) |
+|:---:|
+| Just as Amazon.com created a "long-tail" business by supporting millions of one-off sales, we can also facilitate collaboration by creating a platform which supports one-off informational exchanges |
 
 I don't expect this feature to exist right away, because there needs to be enough social network history for there to be a need to condense the existing feeds into a more targeted service.
 
