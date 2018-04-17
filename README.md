@@ -2,7 +2,7 @@
     <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/facebook-wall-1.png" width="66%" />
 </p>
 
-# Mastodon Science Collective
+# The Mastodon Science Collective
 
 <p align="center">
     <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/facebook-wall-2.png" width="66%" />
