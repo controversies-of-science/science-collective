@@ -48,9 +48,13 @@ The fork's primary features would include:
 
 *A Federated System for Annotating Scientific Papers* - All federated sites can activate annotations according to Mastodon instance, for the automated tagging of textual content.  They can also generate their own conceptual labels, which all of the various social networks vote upon.  Users and moderators would rate the usage of these wiki labels as annotations, with the hope that laypeople can use this tool to understand complex scientific papers.
 
-| [![The Crowdsourcing of Scientific Controversies](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-crowdsourcing-of-scientific-controversies.jpg)](https://www.controversiesofscience.com/crowdsourcing/worldview/card) | [![The Annotation of Scientific Papers](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-annotation-of-scientific-papers.jpg)](https://www.controversiesofscience.com/annotations/worldview/card) |
-|:---:|:---:|
-| Mastodon can provide the technology needed to crowdsource scientific controversies | What if we were to design the system so that one output of this activity is a set of annotations which can subsequently be directed towards helping laypeople to understand complex scientific papers? |
+| [![The Crowdsourcing of Scientific Controversies](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-crowdsourcing-of-scientific-controversies.jpg)](https://www.controversiesofscience.com/crowdsourcing/worldview/card) |
+|:---:|
+| Mastodon can provide the technology needed to crowdsource scientific controversies |
+
+| [![The Annotation of Scientific Papers](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-annotation-of-scientific-papers.jpg)](https://www.controversiesofscience.com/annotations/worldview/card) |
+|:---:|
+| What if we were to design the system so that one output of this activity is a set of annotations which can subsequently be directed towards helping laypeople to understand complex scientific papers? |
 
 *Controversy Card Annotations* - This is a library, partially constructed, of topics that are necessary to understand in the domain of scientific controversies.  There are currently [182 controversy cards](https://plus.google.com/collection/Yhn4Y).
 
