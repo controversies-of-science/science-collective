@@ -66,7 +66,7 @@ Compared to wikis, the controversy card format is more story-based, more focused
 
 <p align="center">
     <a href="https://www.controversiesofscience.com">
-        <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversies-of-science-homepage.png" width="33%" />
+        <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/controversies-of-science-homepage.png" width="50%" />
     </a>
 </p>
 
