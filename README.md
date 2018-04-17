@@ -32,7 +32,11 @@ The fork's primary features would include:
 
 This schema -- which bases upon science's structural elements: it's concepts, propositions, models and worldviews -- is intended to reduce unnecessary conflict between people who are attempting to advance existing models, and people who are attempting to navigate to new arguments and models.  My thesis is that creating a platform where these two types of people are more likely to work together could generate breakthroughs.
 
-*Modeling Integration* - Support into the Mastodon instance for rendering Jupyter notebooks will enable the rendering of complex simulations in service of specific technical arguments.
+*Modeling Integration* - Support into the Mastodon instance for rendering [Jupyter notebooks](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html) will enable the rendering of complex simulations in service of specific technical arguments.  Jupyter is sort of like an open-source, embeddable version of Mathematica.  See [The Scientific Paper is Obsolete](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/) for more information.
+
+> I spoke to Theodore Gray, who has since left Wolfram Research to become a full-time writer. He said that his work on the notebook was in part motivated by the feeling, well formed already by the early 1990s, “that obviously all scientific communication, all technical papers that involve any sort of data or mathematics or modeling or graphs or plots or anything like that, obviously don’t belong on paper. That was just completely obvious in, let’s say, 1990,” he said.
+>
+> “It’s been a source of ongoing bafflement and consternation for the past 29 years, that with the exception of a few people who get it, the community at large hasn’t really adopted it,” he said. “It’s incalculable, literally ... how much is lost, and how much time is wasted, and how many results are misinterpreted or are misrepresented.”
 
 | [![Why Outsider Mavericks Matter in Science](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-why-outsider-mavericks-matter-in-science.jpg)](https://www.controversiesofscience.com/outsider-mavericks/worldview/card) |
 |:---:|
