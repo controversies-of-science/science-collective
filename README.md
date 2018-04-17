@@ -20,9 +20,7 @@ The social network's primary purpose would be to set up a self-supporting ecosys
 
 2. Supplementing laypeoples' existing science education with details that are crucial for understanding controversial and groundbreaking science claims.
 
-3. Establishing a process which can over time help people to think about science claims at a higher, more critical level.
-
-4. Creating a space for critique of scientific theories and science journalism, in order to transform from people who are **subject to** science claims, to people who can treat science claims **as objects**. 
+3. Establishing a process for the aggregation and binning of critique of scientific theories and science journalism, in order to transform from people who are **subject to** science claims, to people who can treat science claims **as objects** (basically helping them to think about science claims at a higher, more critical level). 
 
 | [![The 5 Stages of the Mind](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-5-stages-of-the-mind.jpg)](https://www.controversiesofscience.com/the-5-stages-of-the-mind/worldview/card) | [![Why Critique Science](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-why-critique-science.jpg)](https://www.controversiesofscience.com/critique-science/worldview/card) |
 |:---:|:---:|
