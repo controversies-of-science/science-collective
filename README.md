@@ -76,7 +76,7 @@ This schema -- which bases upon science's structural elements: it's concepts, pr
 |:---:|
 | What if we were to design the system so that one output of this activity is a set of annotations which can subsequently be directed towards helping laypeople to understand complex scientific papers? |
 
-*Controversy Card Annotations* - This is a library, partially constructed, of topics that are necessary to understand in the domain of scientific controversies.  There are currently [182 controversy cards](https://plus.google.com/collection/Yhn4Y).
+*Controversy Card Annotations* - This is a library, partially constructed, of topics that are necessary to understand in the domain of scientific controversies.  The science collective fork of the Mastodon instance will be enhanced with an ability to annotate content with this controversy card content.  There are currently [182 controversy cards](https://plus.google.com/collection/Yhn4Y), but there are plans to expand this library to at least 500 cards.
 
 Compared to wikis, the controversy card format is more story-based, more focused on the passing on of extraordinary critique, more graphical, and also more useful for sharing content to social media.  The site would moderate the creation of controversy cards, but wikis would be open to everybody.  And since the site's schema enables people to create conflicting wikis and controversy cards in different areas, turf battles between maverick against-the-mainstream thinkers and defenders of existing theory could be replaced with discussion of the actual debate.
 
