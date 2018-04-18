@@ -235,6 +235,11 @@ There are a few guides ([here](https://github.com/ummjackson/mastodon-guide/blob
 
 I am able to estimate that the EC2 costs should be around $40 per month, based upon the $0.052 hourly charge, but there will also be S3 costs associated with the users' assets and a very small charge associated with the domain.  Ideally, the cost would be more in the neighborhood of $10/month, and I wonder if implementing the backend as lambdas might reduce the system's costs (?).  But, my most immediate interest is to simply learning how the Mastodon system works, for the purpose of creating Science Collective by merging the Controversies of Science site into Mastodon's codebase.
 
+So ...
+
+Step 1: Secure a domain.
+Step 2: Set up a t2.medium with the correct version of Ubuntu
+
 ## About Me
 
 My name is Chris Reeve, and I have been tracking scientific controversies as a layperson for 12 years now.  I have a Bachelors in Electrical and Computer Engineering from Carnegie Mellon University.  My interest in scientific controversies began when I embedded myself into [an against-the-mainstream group of theorists who have struggled to have their arguments heard out](http://www.thunderbolts.info).
