@@ -219,6 +219,22 @@ I don't expect this feature to exist right away, because there needs to be enoug
 
 - *Examples* - emphasis upon exposure of unsupported or faddish narratives; upon effective demonstrations, with evidence, that the narratives are off.
 
+## First Steps
+
+My first need is to get some firsthand experiences with the Mastodon codebase, its stability and its typical monthly costs.  Since my time is too constrained to explore new Cloud platforms; since I'd like to explore the possibility of porting the system from t2's to AWS Lambda functions; and since I'd like to merge my existing codebase into the Mastodon instance, I'm going to attempt to deploy Mastodon to [an AWS t2.medium instance](https://discourse.joinmastodon.org/t/q-costs-of-running-a-server/77/3).
+
+> You will need either a t2.small with a swap partition (not sure this is possible or recommended) or a t2.medium, due to the amount of memory used by the app when it runs and when it is precompiling assets. I have seen the precompile process alone consume (just slightly) over 1G of memory at peak. Since these EC2 boxes only have EBS storage by default, they do not come with swap partitions and thus if you run out of memory everything will stop until the oomkiller comes out to play. I think you probably know this stuff, I’m partly writing it for other people who find this question and have different levels of background knowledge.
+>
+> You are in danger of running out of disk space though if you store uploaded media on the instance, so you might want to use S3 and/or CloudFront to store/distribute uploads/media. Right now I’m paying maybe $10 CAD a month for S3 and CloudFront (which is optional). There are things you can do to reduce the amount of storage you need, like deleting old uploads/media, or ones from other instances (remote media is cached).
+> 
+> So your basic fixed cost is just an EC2 t2.medium
+>
+> From there you can really go wild with the various AWS services if you feel like it, but it will increase your cost significantly and you probably won’t see much benefit from it unless you end up supporting more users than you anticipate. I use RDS for the DB, ElastiCache for redis, and an ALB instead of nginx to proxy the app servers (as well as do HTTPS and HTTP2 termination). None of it is necessary, I just do it for fun, and to see how it would work.
+
+There are a few guides ([here](https://github.com/ummjackson/mastodon-guide/blob/master/up-and-running.md), [here](https://github.com/tootsuite/documentation/blob/master/Running-Mastodon/Production-guide.md) and [here](https://www.makeuseof.com/tag/social-network-set-mastodon-instance-linux/)) which guide the installation process.  Although there exists [one guide](https://github.com/ceejbot/mastodon-ansible) which is specifically directed at getting Mastodon to work on AWS, there's not a lot of information dedicated to the subject.
+
+I am able to estimate that the EC2 costs should be around $40 per month, based upon the $0.052 hourly charge, but there will also be S3 costs associated with the users' assets and a very small charge associated with the domain.  Ideally, the cost would be more in the neighborhood of $10/month, and I wonder if implementing the backend as lambdas might reduce the system's costs (?).  But, my most immediate interest is to simply learning how the Mastodon system works, for the purpose of creating Science Collective by merging the Controversies of Science site into Mastodon's codebase.
+
 ## About Me
 
 My name is Chris Reeve, and I have been tracking scientific controversies as a layperson for 12 years now.  I have a Bachelors in Electrical and Computer Engineering from Carnegie Mellon University.  My interest in scientific controversies began when I embedded myself into [an against-the-mainstream group of theorists who have struggled to have their arguments heard out](http://www.thunderbolts.info).
