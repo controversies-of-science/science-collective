@@ -238,6 +238,7 @@ I am able to estimate that the EC2 costs should be around $40 per month, based u
 So ...
 
 Step 1: Secure a domain.
+
 Step 2: Set up a t2.medium with the correct version of Ubuntu
 
 ## About Me
