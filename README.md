@@ -60,6 +60,18 @@ See [The Scientific Paper is Obsolete](https://www.theatlantic.com/science/archi
 
 Some consideration needs to go into how Auger works, in order to get a better sense for what sort of integrations are possible with the site's token (e.g., does the Auger blockchain base upon its own token or coin?  Did they implement smart contracts?)
 
+> [How Augur Works](http://www.augur.net/about/)
+>
+> Augur is a decentralized oracle and prediction market platform. Users feed real world information into Augur's contracts. Augur ensures the accuracy of this real world information by providing a financial incentive for REP token holders to correct markets they believe have been reported on incorrectly. There are several ways users can participate in Augur: you can trade shares in markets, create prediction markets, or participate in the reporting system to keep the Augur oracle honest.
+>
+> Markets & Trading
+>
+> On Augur, market creators set the event start and end times, a designated reporter, resolution source, and settlement fee. Traders can purchase shares in Augur markets immediately after market creation. The Augur contracts maintain an order book for every market created, and offer shares at the current best price. Settlement fees are paid by traders when positions are settled within a market. After the event has occurred, the outcome is determined by the designed reporter, or ultimately, Augur’s decentralized oracle, if necessary.
+>
+> Reporting
+>
+> REP (Reputation) token holders can participate in the Augur reporting system. REP token holders have the ability to dispute the tentative outcome of any Augur market within 7 days of resolution by staking a dispute bond. When doing so, the Augur market will go into a dispute round, where REP holders can stake REP tokens on one of the markets possible outcomes. If the tentative outcome is overturned, users who participated by staking on the new winning outcome will receive a 50% ROI. There is always a financial incentive to keep the Augur oracle reflecting reality.
+
 *Integration with the Institute for Venture Science* - If there exists interest, my hope would be to work with Dr. Gerald Pollack of the University of Washington to fast-track the creation of controversy cards related to challenges being reviewed or funded by the [Institute for Venture Science](https://ivscience.org/).  The IVS has devised [a unique process for judging whether or not challenges to entrenched science research topics should be funded](https://www.controversiesofscience.com/ivs-process/worldview/card), and they are currently seeking out benefactors.  Much of the science collective idea was inspired by, and designed to work with, Dr. Pollack's IVS concept.
 
 | [![The Institute for Venture Science Process](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-institute-for-venture-science-process.jpg)](https://www.controversiesofscience.com/ivs-process/worldview/card) |
