@@ -255,6 +255,12 @@ At one point in their policy, they equate "non-mainstream theories" with "pseudo
     <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/physorg-pseudoscience.png" width="100%" />
 </p>
 
+Phys.org comments are length-limited to 1000 characters, but users are allowed to post another comment within 3 minutes.  Mastodon does not implement the 3-minute delay, but it does apply a 500-character limit to each individual chunk.  Neither phys.org nor slashdot permit inline images, and for the user's protection, slashdot annotates links with the link's domain.  That's in part because slashdot permits the user to write their post in HTML, thus obscuring links behind anchor tags.
+
+Chunking seems to have a positive effect upon encouraging the participant to keep their contributions concise -- on Twitter, Mastodon and phys.org.  Twitter seems to not count every letter inside of links towards these limits.
+
+Slashdot and Twitter discussions are threaded, whereas sites like physorg and Mastodon seem to bin comments into flat feeds.
+
 ## First Steps
 
 My first need is to get some firsthand experiences with the Mastodon codebase, its stability and its typical monthly costs.  Since my time is too constrained to explore new Cloud platforms; since I'd like to explore the possibility of porting the system from t2's to AWS Lambda functions; and since I'd like to merge my existing codebase into the Mastodon instance, I'm going to attempt to deploy Mastodon to [an AWS t2.medium instance](https://discourse.joinmastodon.org/t/q-costs-of-running-a-server/77/3).
