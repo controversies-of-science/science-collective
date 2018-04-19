@@ -299,6 +299,8 @@ Reddit differs in that they order comments on the basis of votes.
     <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/reddit-ranking.png" width="100%" />
 </p>
 
+Notice that they also provide the option to sort comments by "Controversial".
+
 [One commenter notes](https://www.reddit.com/r/AskReddit/comments/3xk6rl/how_exactly_do_reddit_pointsupvotes_work/) that
 
 > Its supposed to be a way of acknowledging quality posts, but it's basically a like/disagree button.
@@ -316,6 +318,20 @@ Another commenter notes:
 > Intelligent people look at the animals head-butting each other in the comments section and can see no reason to get involved.
 >
 > On Reddit, it's not like that. The incentive system is powerful. Instead of bad comments floating round riling people up, they disappear. That disincentivises trolls. And good comments are rewarded. This creates a problem in the opposite direction, a la Unidan.
+
+Reddit is also somewhat unique in that it also tracks downvotes, while also prioritizing more recent comment.  There is some interesting commentary on this online ...
+
+> [Effects of downvotes](https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9)
+>
+> Reddit is one of the few sites that has downvotes ...
+>
+> This has a big impact for stories that get a lot of upvotes and downvotes (e.g. controversial stories) as they will get a lower ranking than stories that just get upvotes. This could explain why kittens (and other non-controversial stories) rank so high :)
+>
+> Conclusion of Reddit’s story ranking
+>
+> - Submission time is a very important parameter, generally newer stories will rank higher than older
+> - The first 10 upvotes count as high as the next 100. E.g. a story that has 10 upvotes and a story that has 50 upvotes will have a similar ranking
+> Controversial stories that get similar amounts of upvotes and downvotes will get a low ranking compared to stories that mainly get upvotes
 
 The problem with Reddit (and other sites, such as phys.org), to my eye, is that the ranking occurs along a single ambiguous dimension.  Some architects I've spoken to about the subject claim that people are not capable of adapting to complex content rating systems.  That may make sense for generalized systems like Reddit, but I would argue that this makes less sense for systems like phys.org which are focused specifically on the subject of science.  What is the point of designing content rating systems to accommodate the lowest common denominator when the subject matters relate to complex scientific questions?
 
