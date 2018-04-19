@@ -219,7 +219,7 @@ I don't expect this feature to exist right away, because there needs to be enoug
 
 ## Moderation and Comments Infrastructure
 
-Science collectives need a system of comments and feedback which is appropriate for the objectives, and which bases upon a survey of similar existing systems.  We should think of the existing Mastodon system as a sort of baseline for this systems' mechanics.
+Science collectives need a system of comments and feedback which is appropriate for the objectives, and which bases upon a survey of similar existing systems.  We should not necessarily approach the existing Mastodon UI as a complete or appropriate solution to these problems.
 
 For example, Slashdot's karma system empowers users to rate one anothers' content, but deprives them of this power once they participate in the conversation.
 
