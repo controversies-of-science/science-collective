@@ -217,9 +217,9 @@ I don't expect this feature to exist right away, because there needs to be enoug
 
 - *Examples* - emphasis upon exposure of unsupported or faddish narratives; upon effective demonstrations, with evidence, that the narratives are off.
 
-## Moderation Infrastructure
+## Moderation and Comments Infrastructure
 
-Science collectives need a system of feedback which is appropriate for the objectives, and which bases upon a survey of existing attempts to moderate content.  We should think of the existing Mastodon system as a sort of baseline for this systems' mechanics.
+Science collectives need a system of comments and feedback which is appropriate for the objectives, and which bases upon a survey of similar existing systems.  We should think of the existing Mastodon system as a sort of baseline for this systems' mechanics.
 
 For example, Slashdot's karma system empowers users to rate one anothers' content, but deprives them of this power once they participate in the conversation.
 
@@ -261,7 +261,7 @@ Chunking seems to have a positive effect upon encouraging the participant to kee
 
 Slashdot and Twitter discussions are threaded, whereas sites like physorg and Mastodon seem to bin comments into flat feeds.
 
-One observation is that chunking seems to rely heavily upon links to off-site content.  Users oftentimes ignore links when there is no excerpt which indicates the link's content.  Also, websites are ephemeral.  Content can completely disappear, and it may or may not be archived on Google's Wayback Machine.  One idea worth considering is that excerpts should not be bound to the character limit.
+One observation is that chunking seems to rely heavily upon links to off-site content.  Users oftentimes ignore links when there is no excerpt which indicates the link's content.  Also, websites are ephemeral.  Content can completely disappear, and it may or may not be archived on Google's Wayback Machine.  One idea worth considering is that excerpts should not be bound to the character limit.  The same effect, more-or-less, can be had by attaching screenshots to Twitter posts.
 
 ## First Steps
 
