@@ -243,11 +243,13 @@ I am able to estimate that the EC2 costs should be around $40 per month, based u
 
 So ...
 
-Step 1: Secure a route53 domain (done: sciencecollective.org)
+Step 1: Secure a route53 domain (domain: sciencecollective.org)
 
-Step 2: Get a certificate for the domain (done)
+Step 2: Get an SSL certificate for the domain (done)
 
-Step 3: Set up a VPC ready to host an EC2 machine
+Step 3: Set up a VPC ready to host an EC2 machine (presumably generating subnet, security group and zone id)
+
+Step 4: Set up a mail server (generating SMTP server, login, password and from address)
 
 Step 4: Install Terraform (done)
 
