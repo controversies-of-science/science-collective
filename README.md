@@ -227,6 +227,14 @@ For example, Slashdot's karma system empowers users to rate one anothers' conten
     <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/slashdot-moderation.png" width="100%" />
 </p>
 
+The Slashdot system for rating content can observably produce unusual results for science conversations.  [In this case](https://science.slashdot.org/comments.pl?sid=11892849&cid=56312159), an invitation to track scientific controversies is labeled as "Troll", [a term which was originally intended to describe insincere agitators](https://www.controversiesofscience.com/troll/worldview/card) ...
+
+<p align="center">
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/slashdot-troll.jpg" width="50%" />
+</p>
+
+So, are there any aspects of these mechanics worth copying?
+
 ## First Steps
 
 My first need is to get some firsthand experiences with the Mastodon codebase, its stability and its typical monthly costs.  Since my time is too constrained to explore new Cloud platforms; since I'd like to explore the possibility of porting the system from t2's to AWS Lambda functions; and since I'd like to merge my existing codebase into the Mastodon instance, I'm going to attempt to deploy Mastodon to [an AWS t2.medium instance](https://discourse.joinmastodon.org/t/q-costs-of-running-a-server/77/3).
