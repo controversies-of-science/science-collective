@@ -50,7 +50,7 @@ See [The Scientific Paper is Obsolete](https://www.theatlantic.com/science/archi
 
 | [![The Stucture of Science](https://github.com/controversies-of-science/science-collective/blob/master/images/controversy-card-the-structure-of-science.jpg)](https://www.controversiesofscience.com/structure-of-science/worldview/card) |
 |:---:|
-| By bringing a newfound sense of organizational order to challenges to mainstream theory, it should be possible to enhance innovation in the sciences |
+| By bringing a newfound sense of organizational order to challenges to mainstream theory, it should be possible to enhance innovation in the sciences. The proposed schema would categorize interactions as clashes of worldview, model discussion, propositions and concepts. |
 
 *Prediction Market Tracking, Integration and Standardization* - Integration of [the Auger blockchain](http://www.augur.net/) for registering and betting on scientific predictions; will probably require the creation of prediction standards to label those predictions which avoid common, predictable mistakes.
 
