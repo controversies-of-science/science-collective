@@ -277,6 +277,34 @@ Slashdot and Twitter discussions are threaded, whereas sites like physorg and Ma
 
 One observation is that chunking seems to rely heavily upon links to off-site content.  Users oftentimes ignore links when there is no excerpt which indicates the link's content.  Also, websites are ephemeral.  Content can completely disappear, and it may or may not be archived on Google's Wayback Machine.  One idea worth considering is that excerpts should not be bound to the character limit.  The same effect, more-or-less, can be had by attaching screenshots to Twitter posts.
 
+Reddit differs in that they order comments on the basis of votes.
+
+<p align="center">
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/reddit-ranking.png" width="100%" />
+</p>
+
+[One commenter notes](https://www.reddit.com/r/AskReddit/comments/3xk6rl/how_exactly_do_reddit_pointsupvotes_work/) that
+
+> Its supposed to be a way of acknowledging quality posts, but it's basically a like/disagree button.
+
+This same pattern is observed on Slashdot, Phys.org and Reddit.
+
+Another commenter notes:
+
+> I have a theory that the voting system is what makes Reddit awesome.
+>
+> Compare it to the standard first-come, first-shown system. For some idiot with anti-social views, this is his one chance to get his views amplified. The pay-off here is high.
+>
+> Normally he can’t get anyone to listen. But if he quickly writes something inflammatory, he can spend a happy afternoon jousting with people he made angry.
+>
+> Intelligent people look at the animals head-butting each other in the comments section and can see no reason to get involved.
+>
+> On Reddit, it's not like that. The incentive system is powerful. Instead of bad comments floating round riling people up, they disappear. That disincentivises trolls. And good comments are rewarded. This creates a problem in the opposite direction, a la Unidan.
+
+The problem with Reddit (and other sites, such as phys.org), to my eye, is that the ranking occurs along a single ambiguous dimension.  Some architects I've spoken to about the subject claim that people are not capable of adapting to complex content rating systems.  That may make sense for generalized systems like Reddit, but I would argue that this makes less sense for systems like phys.org which are focused specifically on the subject of science.  What is the point of designing content rating systems to accommodate the lowest common denominator when the subject matters relate to complex scientific questions?
+
+The risk of adding complexity to these rating systems is that users will not understand them, with the consequence that nobody would use them.
+
 ## First Steps
 
 My first need is to get some firsthand experiences with the Mastodon codebase, its stability and its typical monthly costs.  Since my time is too constrained to explore new Cloud platforms; since I'd like to explore the possibility of porting the system from t2's to AWS Lambda functions; and since I'd like to merge my existing codebase into the Mastodon instance, I'm going to attempt to deploy Mastodon to [an AWS t2.medium instance](https://discourse.joinmastodon.org/t/q-costs-of-running-a-server/77/3).
