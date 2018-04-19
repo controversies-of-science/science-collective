@@ -255,6 +255,8 @@ They equate "non-mainstream theories" with "pseudoscience".
     <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/physorg-pseudoscience.png" width="100%" />
 </p>
 
+One thing to notice about their "Comments Guidelines" is that this is not so much a purpose-driven, principled approach, but rather focused upon the minutia, the transactional details which would ideally be handled by the infrastructure and system for feedback.  What's interesting about phys.org's poplicy on non-mainstream theories is that it seems to leave the suggestion that the point of the comments is to support mainstream theory.  It can be argued that the guidelines say a lot about the point of comments on phys.org.
+
 Phys.org comments are length-limited to 1000 characters, but users are allowed to post another comment within 3 minutes.  Mastodon does not implement the 3-minute delay, but it does apply a 500-character limit to each individual chunk.  Neither phys.org nor slashdot permit inline images, and for the user's protection, slashdot annotates links with the link's domain.  That's in part because slashdot permits the user to write their post in HTML, thus obscuring links behind anchor tags.
 
 Chunking seems to have a positive effect upon encouraging the participant to keep their contributions concise -- on Twitter, Mastodon and phys.org.  Twitter seems to not count every letter inside of links towards these limits.
