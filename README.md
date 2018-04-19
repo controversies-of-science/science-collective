@@ -247,13 +247,23 @@ The Slashdot system for rating content can observably produce unusual results fo
 
 So, are there any aspects of these mechanics worth copying?
 
-Phys.org comments, by contrast, do not prevent users from judging contributions in the conversations they participate in.  When moderators decide that a user has violated their policy, they might choose to remove every single post the user has ever made, [with results which look like this](https://web.archive.org/web/20180111042502/https://phys.org/news/2018-01-black-hole-breakthrough-insight-mysterious.html):
+Phys.org comments, by contrast, do not prevent users from judging contributions in the conversations they participate in.  When phys.org moderators decide that a user has violated their policy, they might choose to remove every single post the user has ever made, [with results which today look like this](https://phys.org/news/2018-01-black-hole-breakthrough-insight-mysterious.html):
 
 <p align="center">
     <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/physorg-comments.png" width="100%" />
 </p>
 
-Notice that comment scores oftentimes end up pegged to one of the two ends of the spectrum.
+You might wonder about the nature of this commentary that was removed.  Most of what was removed [looks like this](https://web.archive.org/web/20180111042502/https://phys.org/news/2018-01-black-hole-breakthrough-insight-mysterious.html):
+
+<p align="center">
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/physorg-censored-comments-1.png" width="100%" />
+</p>
+
+<p align="center">
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/physorg-censored-comments-2.png" width="100%" />
+</p>
+
+Notice that comment scores oftentimes end up pegged to one of the two ends of the 5-point spectrum.
 
 The phys.org policy [directs its users to read wikipedia's definition of pseudoscience](https://sciencex.com/help/comments/).
 
@@ -267,7 +277,13 @@ They equate "non-mainstream theories" with "pseudoscience".
     <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/physorg-pseudoscience.png" width="100%" />
 </p>
 
-One thing to notice about their "Comments Guidelines" is that this is not so much a purpose-driven, principled approach, but rather focused upon the minutia, the transactional details which would ideally be handled by the infrastructure and system for feedback.  What's interesting about phys.org's poplicy on non-mainstream theories is that it seems to leave the suggestion that the point of the comments is to support mainstream theory.  It can be argued that the guidelines say a lot about the point of comments on phys.org.
+One thing to notice about their guidelines is that this is not so much a purpose-driven, principled approach, but rather focused upon the minutia, the transactional details which would ideally be handled by the infrastructure and system for feedback.  What's interesting about phys.org's policy on non-mainstream theories is that it seems to leave the suggestion that the point of the comments is to support mainstream theory.  It can be argued that the guidelines say a lot about the point of comments on phys.org.
+
+Another commenter, Captain_Stumpy, [is permitted to repeatedly and overtly violate phys.org's policy against "avoiding personal attacks and name calling"](https://phys.org/news/2017-11-closest-temperate-world-orbiting-quiet.html) -- one imagines because he is defending mainstream science:
+
+<p align="center">
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/captain-stumpy.png" width="100%" />
+</p>
 
 Phys.org comments are length-limited to 1000 characters, but users are allowed to post another comment within 3 minutes.  Mastodon does not implement the 3-minute delay, but it does apply a 500-character limit to each individual chunk.  Neither phys.org nor slashdot permit inline images, and for the user's protection, slashdot annotates links with the link's domain.  That's in part because slashdot permits the user to write their post in HTML, thus obscuring links behind anchor tags.
 
@@ -275,7 +291,7 @@ Chunking seems to have a positive effect upon encouraging the participant to kee
 
 Slashdot and Twitter discussions are threaded, whereas sites like physorg and Mastodon seem to bin comments into flat feeds.
 
-One observation is that chunking seems to rely heavily upon links to off-site content.  Users oftentimes ignore links when there is no excerpt which indicates the link's content.  Also, websites are ephemeral.  Content can completely disappear, and it may or may not be archived on Google's Wayback Machine.  One idea worth considering is that excerpts should not be bound to the character limit.  The same effect, more-or-less, can be had by attaching screenshots to Twitter posts.
+One observation is that chunking seems to rely heavily upon links to off-site content.  Users oftentimes ignore links when there is no excerpt which indicates the link's content.  Also, websites are ephemeral.  Content can completely disappear, and it may or may not be archived on Google's Wayback Machine.  One idea worth considering is that excerpts should not count towards the character limit.  The same effect, more-or-less, can be had by attaching screenshots to Twitter posts.
 
 Reddit differs in that they order comments on the basis of votes.
 
