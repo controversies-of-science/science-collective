@@ -34,8 +34,6 @@ The fork's primary features would include:
 
 *A Discourse Schema Which Brings Order to Process and the Against-the-Mainstream Science Space* - The site would introduce a structure for discussion which is intended to distinguish the different types of scientific discourse, because people who are seeking to elaborate existing models can oftentimes clash with people who are questioning assumptions and starting-point hypotheses for the purpose of constructing new models.
 
-This schema -- which bases upon science's structural elements: it's concepts, propositions, models and worldviews -- is intended to reduce unnecessary conflict between people who are attempting to advance existing models, and people who are attempting to navigate to new arguments and models.  My thesis is that creating a platform where these two types of people are more likely to work together could generate breakthroughs.
-
 *Modeling Integration* - Support into the Mastodon instance for rendering [Jupyter notebooks](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html) will enable the rendering of complex simulations in service of specific technical arguments.  Jupyter is sort of like an open-source, embeddable version of Mathematica.
 
 > [The Jupyter Notebook App is a server-client application that allows editing and running notebook documents via a web browser. The Jupyter Notebook App can be executed on a local desktop requiring no internet access (as described in this document) or can be installed on a remote server and accessed through the internet.](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)
