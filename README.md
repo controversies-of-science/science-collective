@@ -249,7 +249,7 @@ The phys.org policy [directs its users to read wikipedia's definition of pseudos
     <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/physorg-policies.png" width="100%" />
 </p>
 
-At one point in their policy, they equate "non-mainstream theories" with "pseudoscience".
+They equate "non-mainstream theories" with "pseudoscience".
 
 <p align="center">
     <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/physorg-pseudoscience.png" width="100%" />
@@ -260,6 +260,8 @@ Phys.org comments are length-limited to 1000 characters, but users are allowed t
 Chunking seems to have a positive effect upon encouraging the participant to keep their contributions concise -- on Twitter, Mastodon and phys.org.  Twitter seems to not count every letter inside of links towards these limits.
 
 Slashdot and Twitter discussions are threaded, whereas sites like physorg and Mastodon seem to bin comments into flat feeds.
+
+One observation is that chunking seems to rely heavily upon links to off-site content.  Users oftentimes ignore links when there is no excerpt which indicates the link's content.  Also, websites are ephemeral.  Content can completely disappear, and it may or may not be archived on Google's Wayback Machine.  One idea worth considering is that excerpts should not be bound to the character limit.
 
 ## First Steps
 
