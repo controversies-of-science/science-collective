@@ -217,6 +217,16 @@ I don't expect this feature to exist right away, because there needs to be enoug
 
 - *Examples* - emphasis upon exposure of unsupported or faddish narratives; upon effective demonstrations, with evidence, that the narratives are off.
 
+## Moderation Infrastructure
+
+Science collectives need a system of feedback which is appropriate for the objectives, and which bases upon a survey of existing attempts to moderate content.  We should think of the existing Mastodon system as a sort of baseline for this systems' mechanics.
+
+For example, Slashdot's karma system empowers users to rate one anothers' content, but deprives them of this power once they participate in the conversation.
+
+<p align="center">
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/slashdot-moderation.png" width="100%" />
+</p>
+
 ## First Steps
 
 My first need is to get some firsthand experiences with the Mastodon codebase, its stability and its typical monthly costs.  Since my time is too constrained to explore new Cloud platforms; since I'd like to explore the possibility of porting the system from t2's to AWS Lambda functions; and since I'd like to merge my existing codebase into the Mastodon instance, I'm going to attempt to deploy Mastodon to [an AWS t2.medium instance](https://discourse.joinmastodon.org/t/q-costs-of-running-a-server/77/3).
