@@ -235,6 +235,26 @@ The Slashdot system for rating content can observably produce unusual results fo
 
 So, are there any aspects of these mechanics worth copying?
 
+Phys.org comments, by contrast, do not prevent users from judging contributions in the conversations they participate in.  When moderators decide that a user has violated their policy, they might choose to remove every single post the user has ever made, [with results which look like this](https://web.archive.org/web/20180111042502/https://phys.org/news/2018-01-black-hole-breakthrough-insight-mysterious.html):
+
+<p align="center">
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/physorg-comments.png" width="100%" />
+</p>
+
+Notice that comment scores oftentimes end up pegged to one of the two ends of the spectrum.
+
+The phys.org policy [directs its users to read wikipedia's definition of pseudoscience](https://sciencex.com/help/comments/).
+
+<p align="center">
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/physorg-policies.png" width="100%" />
+</p>
+
+At one point in their policy, they equate "non-mainstream theories" with "pseudoscience".
+
+<p align="center">
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/physorg-pseudoscience.png" width="100%" />
+</p>
+
 ## First Steps
 
 My first need is to get some firsthand experiences with the Mastodon codebase, its stability and its typical monthly costs.  Since my time is too constrained to explore new Cloud platforms; since I'd like to explore the possibility of porting the system from t2's to AWS Lambda functions; and since I'd like to merge my existing codebase into the Mastodon instance, I'm going to attempt to deploy Mastodon to [an AWS t2.medium instance](https://discourse.joinmastodon.org/t/q-costs-of-running-a-server/77/3).
