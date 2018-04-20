@@ -245,8 +245,6 @@ The Slashdot system for rating content can observably produce unusual results fo
     <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/slashdot-troll.jpg" width="50%" />
 </p>
 
-So, are there any aspects of these mechanics worth copying?
-
 Phys.org comments, by contrast, do not prevent users from judging contributions in the conversations they participate in.  When phys.org moderators decide that a user has violated their policy, they might choose to remove every single post the user has ever made, [with results which today look like this](https://phys.org/news/2018-01-black-hole-breakthrough-insight-mysterious.html):
 
 <p align="center">
@@ -263,15 +261,15 @@ You might wonder about the nature of this commentary that was removed.  Most of 
     <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/physorg-censored-comments-2.png" width="100%" />
 </p>
 
-Notice that comment scores oftentimes end up pegged to one of the two ends of the 5-point spectrum.
+Notice that comment scores oftentimes end up pegged to one of the two ends of the 5-point spectrum on phys.org.
 
-The phys.org policy [directs its users to read wikipedia's definition of pseudoscience](https://sciencex.com/help/comments/).
+The phys.org policy [directs its users to read wikipedia's definitions for pseudoscience and internet trolls](https://sciencex.com/help/comments/).
 
 <p align="center">
     <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/physorg-policies.png" width="100%" />
 </p>
 
-They equate "non-mainstream theories" with "pseudoscience".
+They loosely equate "non-mainstream theories" with "pseudoscience".
 
 <p align="center">
     <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/physorg-pseudoscience.png" width="100%" />
