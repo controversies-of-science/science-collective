@@ -333,7 +333,11 @@ Reddit is also somewhat unique in that it also tracks downvotes, while also prio
 > - The first 10 upvotes count as high as the next 100. E.g. a story that has 10 upvotes and a story that has 50 upvotes will have a similar ranking
 > - Controversial stories that get similar amounts of upvotes and downvotes will get a low ranking compared to stories that mainly get upvotes
 
-The problem with Reddit (and other sites, such as phys.org), to my eye, is that the ranking occurs along a single ambiguous dimension.  Some architects I've spoken to about the subject claim that people are not capable of adapting to complex content rating systems.  That may make sense for generalized systems like Reddit, but I would argue that this makes less sense for systems like phys.org which are focused specifically on the subject of science.  What is the point of designing content rating systems to accommodate the lowest common denominator when the subject matters relate to complex scientific questions?
+Reddit's system for ranking comments has undergone an important change in recent years that is described [here](https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9), [here](https://redditblog.com/2009/10/15/reddits-new-comment-sorting-system/) and [here](http://www.evanmiller.org/how-not-to-sort-by-average-rating.html).
+
+Since rapid access to the best information is part of the mission for Controversies of Science, it seems likely that both versions of the feed are needed -- the usual chronological version that comes with Mastodon, but also this alternative sorted version.
+
+A problem with Reddit (and other sites, such as phys.org), to my eye, is that the ranking occurs along a single ambiguous dimension.  Some architects I've spoken to about the subject claim that people are not capable of adapting to complex content rating systems.  That may make sense for generalized systems like Reddit, but I would argue that this makes less sense for systems like phys.org which are focused specifically on the subject of science.  What is the point of designing content rating systems to accommodate the lowest common denominator when the subject matters relate to complex scientific questions?
 
 The risk of adding complexity to these rating systems is that users will not understand them, with the consequence that nobody would use them.
 
