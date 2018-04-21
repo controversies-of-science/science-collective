@@ -421,8 +421,8 @@ http://www.paulgraham.com/hackernews.html
 
 Here's their site policy:
 
-[Welcome to Hacker News](https://news.ycombinator.com/newswelcome.html) 
-
+> [Welcome to Hacker News](https://news.ycombinator.com/newswelcome.html) 
+>
 > Hacker News is a bit different from other community sites, and we'd appreciate it if you'd take a minute to read the following as well as the official guidelines.
 >
 > HN is an experiment. As a rule, a community site that becomes popular will decline in quality. Our hypothesis is that this is not inevitable—that by making a conscious effort to resist decline, we can keep it from happening.
@@ -443,7 +443,7 @@ Here's their site policy:
 >
 > Which brings us to the most important principle on HN: civility. Since long before the web, the anonymity of online conversation has lured people into being much ruder than they'd be in person. So the principle here is: don't say anything you wouldn't say face to face. This doesn't mean you can't disagree. But disagree without calling names. If you're right, your argument will be more convincing without them. 
 
-[This commentary on broken windows](http://www.paulgraham.com/hackernews.html) is especially thought-provoking ...
+[This commentary by Paul Graham on broken windows](http://www.paulgraham.com/hackernews.html) is especially thought-provoking ...
 
 > It's pretty clear now that the broken windows theory applies to community sites as well. The theory is that minor forms of bad behavior encourage worse ones: that a neighborhood with lots of graffiti and broken windows becomes one where robberies occur. I was living in New York when Giuliani introduced the reforms that made the broken windows theory famous, and the transformation was miraculous. And I was a Reddit user when the opposite happened there, and the transformation was equally dramatic.
 >
@@ -452,6 +452,95 @@ Here's their site policy:
 > But what happened to Reddit won't inevitably happen to HN. There are several local maxima. There can be places that are free for alls and places that are more thoughtful, just as there are in the real world; and people will behave differently depending on which they're in, just as they do in the real world.
 >
 > I've observed this in the wild. I've seen people cross-posting on Reddit and Hacker News who actually took the trouble to write two versions, a flame for Reddit and a more subdued version for HN.
+
+[This commentary on the Fluff Principle](http://www.paulgraham.com/hackernews.html) is also compelling, but may relate more to the creation of controversy cards than moderation of comments ...
+
+> The most dangerous thing for the frontpage is stuff that's too easy to upvote. If someone proves a new theorem, it takes some work by the reader to decide whether or not to upvote it. An amusing cartoon takes less. A rant with a rallying cry as the title takes zero, because people vote it up without even reading it.
+>
+> Hence what I call the Fluff Principle: on a user-voted news site, the links that are easiest to judge will take over unless you take specific measures to prevent it.
+>
+> Hacker News has two kinds of protections against fluff. The most common types of fluff links are banned as off-topic. Pictures of kittens, political diatribes, and so on are explicitly banned. This keeps out most fluff, but not all of it. Some links are both fluff, in the sense of being very short, and also on topic.
+>
+> There's no single solution to that. If a link is just an empty rant, editors will sometimes kill it even if it's on topic in the sense of being about hacking, because it's not on topic by the real standard, which is to engage one's intellectual curiosity. If the posts on a site are characteristically of this type I sometimes ban it, which means new stuff at that url is auto-killed. If a post has a linkbait title, editors sometimes rephrase it to be more matter-of-fact. This is especially necessary with links whose titles are rallying cries, because otherwise they become implicit "vote up if you believe such-and-such" posts, which are the most extreme form of fluff.
+>
+> The techniques for dealing with links have to evolve, because the links do. The existence of aggregators has already affected what they aggregate. Writers now deliberately write things to draw traffic from aggregators—sometimes even specific ones. (No, the irony of this statement is not lost on me.) Then there are the more sinister mutations, like linkjacking—posting a paraphrase of someone else's article and submitting that instead of the original. These can get a lot of upvotes, because a lot of what's good in an article often survives; indeed, the closer the paraphrase is to plagiarism, the more survives. [3]
+>
+> I think it's important that a site that kills submissions provide a way for users to see what got killed if they want to. That keeps editors honest, and just as importantly, makes users confident they'd know if the editors stopped being honest. HN users can do this by flipping a switch called showdead in their profile. [4]
+
+This commentary on comments is fascinating because these problems are actually observable in Slashdot comments.  The pithy commenters have completely overtaken Slashdot, and it appears that HN has attempted to fix this problem ...
+
+> [Comments](http://www.paulgraham.com/hackernews.html)
+>
+> Bad comments seem to be a harder problem than bad submissions. While the quality of links on the frontpage of HN hasn't changed much, the quality of the median comment may have decreased somewhat.
+>
+> There are two main kinds of badness in comments: meanness and stupidity. There is a lot of overlap between the two—mean comments are disproportionately likely also to be dumb—but the strategies for dealing with them are different. Meanness is easier to control. You can have rules saying one shouldn't be mean, and if you enforce them it seems possible to keep a lid on meanness.
+>
+> Keeping a lid on stupidity is harder, perhaps because stupidity is not so easily distinguishable. Mean people are more likely to know they're being mean than stupid people are to know they're being stupid.
+>
+> The most dangerous form of stupid comment is not the long but mistaken argument, but the dumb joke. Long but mistaken arguments are actually quite rare. There is a strong correlation between comment quality and length; if you wanted to compare the quality of comments on community sites, average length would be a good predictor. Probably the cause is human nature rather than anything specific to comment threads. Probably it's simply that stupidity more often takes the form of having few ideas than wrong ones.
+>
+> Whatever the cause, stupid comments tend to be short. And since it's hard to write a short comment that's distinguished for the amount of information it conveys, people try to distinguish them instead by being funny. The most tempting format for stupid comments is the supposedly witty put-down, probably because put-downs are the easiest form of humor. [5] So one advantage of forbidding meanness is that it also cuts down on these.
+>
+> Bad comments are like kudzu: they take over rapidly. Comments have much more effect on new comments than submissions have on new submissions. If someone submits a lame article, the other submissions don't all become lame. But if someone posts a stupid comment on a thread, that sets the tone for the region around it. People reply to dumb jokes with dumb jokes.
+>
+> Maybe the solution is to add a delay before people can respond to a comment, and make the length of the delay inversely proportional to some prediction of its quality. Then dumb threads would grow slower. [6]
+
+On attracting the right people ...
+
+> the most important thing a community site can do is attract the kind of people it wants. A site trying to be as big as possible wants to attract everyone. But a site aiming at a particular subset of users has to attract just those—and just as importantly, repel everyone else.
+
+[On the need for downvotes:](https://stackoverflow.blog/2009/03/09/the-value-of-downvoting-or-how-hacker-news-gets-it-wrong/)
+
+> Perhaps the most notable difference between Hacker News and Reddit is that it’s impossible to downvote anything on Hacker News. There exists one, and only one, form of vote: the upvote. So you can either upvote something, or do nothing at all. It’s an interesting design decision, but ultimately a bad one, in my opinion ...
+> 
+> On Hacker News, every post effectively starts at zero (technically, one implied upvote, which is your own, but we’ll call that zero), and can be upvoted indefinitely ...
+> 
+> The advantage of this system is that nobody gets downvoted, but at a steep cost: we’ve lost half the potential information. If a post has zero upvotes, does that mean it’s bad? incorrect? uninteresting? mediocre? There’s no way to tell, because zero has multiple meanings ...
+> 
+> If you add back in the negatives, suddenly the range is doubled. An evil or incorrect post is now different than a mediocre or uninteresting post, because it will have downvotes and a negative score.
+>
+> But getting downvoted isn’t anyone’s idea of a good time. It’s tempting to disallow it entirely, to avoid this inevitable discussion:
+
+Yet another fascinating commentary, which now resides [here](https://stackoverflow.uservoice.com/forums/1722-general/suggestions/133310-discourage-downvoting):
+
+> Please do something else to discourage downvoting. Maybe increase the cost to the downvoter (there’s already a “declined” on force user to comment on downvoting).
+>
+> This isn’t about points. It’s about participation. Downvoting should be reserved for nasty/offensive/stupid/poorly-thought-out/totally-off-base comments. If someone spends the time to make an honest effort to answer a question, but it’s not that great an answer, just don’t upvote them… Downvoting sends a message, “We disapprove. You spent your valuable time, but we don’t care.” It makes me think, why should I bother spending the time to write up answers for this forum?
+>
+> I stopped posting on several usenet newsgroups because the major participants were just nasty and sarcastic. Don’t let this happen to Stack Overflow.
+
+[On the importance of downvotes](https://stackoverflow.blog/2009/03/09/the-value-of-downvoting-or-how-hacker-news-gets-it-wrong/) ...
+
+> Downvotes give you the critically important ability to distinguish between the good, the bad, and the ugly. Without downvotes, how can you possibly tell the difference between a post that is harmless but uninteresting, and one that is actually wrong or harmful? Sure, it stings a bit to get downvoted. I’ve been downvoted myself on Stack Overflow. And each time, it makes me pause. But that’s good! That’s necessary! You have to believe there are potential consequences for every post you make — both good and bad. This is how things work on real playgrounds; why would we expect our web playgrounds to be any different?
+>
+> The idea of a world where nobody can be downvoted strikes me as more than a little utopian. Is it realistic for users to expect to post in an environment where there are no penalties at all, no way for their peers to express disapproval or disagreement with their post? When you can’t leave a quiet, anonymous downvote, you’re more likely to post a snarky reply to express your displeasure. That’s why disallowing downvotes is actively harmful to community.
+>
+> The problem isn’t downvotes, per se, but encouraging responsible downvoting. That’s why on Stack Overflow, we do it this way:
+>
+> - Upvotes add 10 reputation to the post author
+>
+> - Downvotes remove 2 reputation from the post author, and 1 from your reputation
+>
+> The trick here is that downvotes are mostly informational. The cost of a downvote to the users’ reputation (or karma in Slashdot/Reddit parlance) is quite low. It would take a whopping 5 downvotes to equal the effect of a single upvote. And, on top of that, downvotes cost you a tiny bit of reputation. The net effect is that you have to feel very strongly about something to downvote it. Downvotes are serious business, and not to be cast lightly. We designed our system around that maxim.
+>
+> Does it work? I think the data itself tells the story. Here are the total number of votes cast on Stack Overflow through 3/7/2009:
+>
+> upvotes - 1,251,020
+> downvotes - 122,141
+>
+> On average, there are 10x as many upvotes cast as downvotes.
+
+[On the need for interaction limits](https://stackoverflow.blog/2009/03/09/the-value-of-downvoting-or-how-hacker-news-gets-it-wrong/) ...
+
+> we also do a few other things that help keep downvoting in check:
+>
+> - We limit total votes per day to 30 per user.
+>
+> - You do not have the right to cast downvotes at all until you earn the equivalent of 10 upvotes, or 100 reputation.
+>
+> The endless inflation of a system with no voting limits is something we learned early on. Instituting vote limits has many advantages besides reducing the inherent inflation. Even if you want to maliciously downvote someone out of revenge, you can only do -60 damage to that user’s reputation per day — while simultaneously reducing your own reputation by -30. And you’ll have to wait 24 hours to do it again, which is a nice de-facto timeout to potentially let cooler heads prevail.
+
+This collection of articles on these four sites -- Slashdot, Reddit, Stack Overflow and Hacker News -- reveal an important history to aggregator sites, where the more recent site designers are attempting to start with the lessons from the former sites, which they view in some manner as flawed.  In a sense, Phys.org comments are to science discourse what Usenet was to Internet information aggregation more broadly, 30 years ago: It's a sort of gestative state for complex conversations, and a platform where the bad behaviors can be traced directly back to the site's design decisions.
 
 ### Is Science Collective like CosmoQuest (Formerly Bad Astronomy and Universe Today)?
 
