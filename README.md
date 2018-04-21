@@ -343,7 +343,7 @@ Since rapid access to the best information is part of the mission for Controvers
 >
 > There are periodically big threads with subjects like “what’s your favorite joke/best advice/worst secret/weirdest habit?” A few weeks ago, I took one of these stories when it was 8 hours old and did a count of the top (root) comments. Of the top 10 comments, ALL were posted either “7 hours ago” or “8 hours ago” — that is, in the first hour or two the story had been up. The “top” list was simply a list of the best jokes from within the first hour. Not a single joke from the last six hours (when most of the comments had been posted) made it near the top. And they never got a chance to; the story fell off the frontpage and they all stopped accumulating votes. They may have been getting upvotes from everyone who saw them, but that didn’t let them catch up to the older comments at the top. One effect of this bias, which you may have seen, is posts saying “sorry to hijack your top comment, but I need to post some important information that refutes the main article.” They know that no matter how good their comment is, it won’t make it to the top.
 >
-> There’s a solution, and it’s the new ‘Best’ ranking. When a few people have voted on a comment, you get a rough idea of its quality. The more people who vote on it, the better an idea you get of where it ‘should’ ultimately end up. With this algorithm, you quantify exactly how much you can tell about a comment from a limited number of votes.
+> ... There’s a solution, and it’s the new ‘Best’ ranking. When a few people have voted on a comment, you get a rough idea of its quality. The more people who vote on it, the better an idea you get of where it ‘should’ ultimately end up. With this algorithm, you quantify exactly how much you can tell about a comment from a limited number of votes.
 >
 > If everyone got a chance to see a comment and vote on it, it would get some proportion of upvotes to downvotes. This algorithm treats the vote count as a statistical sampling of a hypothetical full vote by everyone, much as in an opinion poll. It uses this to calculate the 95% confidence score for the comment. That is, it gives the comment a provisional ranking that it is 95% sure it will get to. The more votes, the closer the 95% confidence score gets to the actual score.
 >
@@ -351,7 +351,19 @@ Since rapid access to the best information is part of the mission for Controvers
 
 A problem with Reddit (and other sites, such as phys.org), to my eye, is that the ranking occurs along a single ambiguous dimension.  Some architects I've spoken to about the subject claim that people are not capable of adapting to complex content rating systems.  That may make sense for generalized systems like Reddit, but I would argue that this makes less sense for systems like phys.org which are focused specifically on the subject of science.  What is the point of designing content rating systems to accommodate the lowest common denominator when the subject matters relate to complex scientific questions?
 
-The risk of adding complexity to these rating systems is that users will not understand them, with the consequence that nobody would use them.
+The risk of adding complexity to these rating systems is that users will not understand them, with the consequence that nobody would use them.  But, the upside of such a system -- if it can be made to work -- is that since contributions to the Science Collective social network would be binned by a schema which differentiates the contributors' various motives, ratings can be applied in a manner which bubble to the top those contributions which service the actual processes of the scientific method.
+
+For example, one type of content which should be rewarded is listed above as:
+
+> *An Observational or Experimental Confirmation* - try to be concise if the link between the two is not immediately obvious; emphasis upon documenting the needed context for a typical layperson to understand it (you can assume they have read the controversy card, points deducted if there is some sort of misunderstanding of the controversy or science).
+
+So, it's as simple as this: When a contributor posts his contribution, he will be given the opportunity to classify it as an observational or experimental confirmation.  Then, when the contribution is presented to the other site users, those users are asked to then judge the contribution according to the standards associated with that specific activity:
+
+- Did the contributor clarify the link between the vindication and the original claim?
+
+- Was the necessary context pointed out?
+
+Providing these specific questions as opportunities for specific feedback would allow us to set up these different bins where contributions can be ranked according to these specific, targeted criteria.  Users are not forced to adhere to these processes, but when they do, the contributions can rank better.
 
 ## First Steps
 
