@@ -233,7 +233,7 @@ I don't expect this feature to exist right away, because there needs to be enoug
 
 Science collectives need a system of comments and feedback which is appropriate for the objectives, and which bases upon a survey of similar existing systems.  We should not necessarily approach the existing Mastodon UI as a complete or appropriate solution to these problems.
 
-### Slashdot.org
+### Is Science Collective like Slashdot.org?
 
 For example, Slashdot's karma system empowers users to rate one anothers' content, but deprives them of this power once they participate in the conversation.
 
@@ -249,7 +249,7 @@ The Slashdot system for rating content can observably produce unusual results fo
 
 I've spent [a few months posting critiques of modern science theories to Slashdot](https://slashdot.org/~paradigmsareconstruc).  I received a karma boost from an accepted submission, but I found that just going through the process of responding to people led me to lose a significant amount of my karma.  This would seem to cause a problem for the types of comments which are posted there: When people are taking the time to post information and arguments which are intended to be persuasive, this person is spending their own personal time to increase the quality of content on the social network.  They should not burn through their karma for the sin of bringing value to this network.  Such a rewards structure disincentivizes its user base from any sort of claim which might diverge from the mainstream view.
 
-### Phys.org
+### Is Science Collective like Phys.org?
 
 Phys.org comments, by contrast, do not prevent users from judging contributions in the conversations they participate in.  When phys.org moderators decide that a user has violated their policy, they might choose to remove every single post the user has ever made, [with results which today look like this](https://phys.org/news/2018-01-black-hole-breakthrough-insight-mysterious.html):
 
@@ -297,7 +297,7 @@ Slashdot discussions are threaded, whereas sites like physorg, Twitter and Masto
 
 One observation is that chunking seems to rely heavily upon links to off-site content.  Users oftentimes ignore links when there is no excerpt which indicates the link's content.  Also, websites are ephemeral.  Content can completely disappear, and it may or may not be archived on Google's Wayback Machine.  One idea worth considering is that excerpts should not count towards the character limit.  The same effect, more-or-less, can be had by attaching screenshots to Twitter posts.
 
-### Reddit
+### Is Science Collective like Reddit?
 
 Reddit differs in that they order comments on the basis of votes.
 
@@ -370,6 +370,90 @@ So, it's as simple as this: When a contributor posts his contribution, he will b
 - Was the necessary context pointed out?
 
 Providing these specific questions as opportunities for specific feedback would allow us to set up these different bins where contributions can be ranked according to these specific, targeted criteria.  Users are not forced to adhere to these processes, but when they do, the contributions can rank better.
+
+### Is Science Collective like Stack Overflow?
+
+There's a recent retrospective article on Stack Overflow [here](https://www.joelonsoftware.com/2018/04/06/the-stack-overflow-age).  Stack Overflow is of course a way for developers to quickly navigate to answers to common questions.
+
+> We wanted the whole thing to be a fun game, with incentives to answer questions, so we had a reputation system. The more you answer, the more reputation you earn. The reputation idea had been seen before on sites like Slashdot and Reddit.
+>
+> As you earn reputation, you also earn moderation privileges on the site. So the site actually moderates itself, which is pretty cool.
+>
+> Instead of putting all the Java programmers in one little forum and all the C++ programmers in another, we dumped everyone together and just let them tag their questions. This idea was stolen from flickr (remember flickr?) who, I think, stole it from del.icio.us (now gone)—who knows, anyway, the point is, tags were the new hotness and made Stack Overflow work great.
+>
+> Most importantly, we realized that each question is asked by one person but the answers are seen by thousands of people who found it through a search. So we decided to optimize everything to be useful for the thousands, not the individual. We literally have 1000 visitors for every person who asks a question. That’s why we sort the answers by votes. It’s also why we optimize for questions and answers that will be helpful to other people, later.
+
+Stack Overflow's rewards system is explained in [a second extremely important article which I need to excerpt at length](https://www.joelonsoftware.com/2018/04/13/gamification/):
+
+> Stack Overflow reputation started as a very simple score. The original idea was just that you would get 10 points when your answers were upvoted. Upvotes do two things. They get the most useful answers to the top, signaling that other developers who saw this answer thought it was good. They also send the person who wrote the answer a real signal that their efforts helped someone. This can be incredibly motivating.
+>
+> You would lose points if your questions were downvoted, but you actually only lose 2 points. We didn’t want to punish you so much as we wanted to show other people that your answer was wrong. And to avoid abuse, we actually make you pay one reputation point to downvote somebody, so you better really mean it. That was pretty much the whole system.
+>
+> Now, this wasn’t an original idea. It was originally inspired by Reddit Karma, which started out as an integer that appeared in parentheses after your handle. If you posted something that got upvoted, your karma went up as a “reward.” That was it. Karma didn’t do a single thing but still served as a system for reward and punishment.
+>
+> What reputation and karma do is send a message that this is a community with norms, it’s not just a place to type words onto the internet. (That would be 4chan.) We don’t really exist for the purpose of letting you exercise your freedom of speech. You can get your freedom of speech somewhere else. Our goal is to get the best answers to questions. All the voting makes it clear that we have standards, that some posts are better than others, and that the community itself has some norms about what’s good and bad that they express through the vote.
+>
+> It’s not a perfect system (more on the problems in a minute), but it’s a reasonable first approximation.
+>
+> By the way, Alexis Ohanian and Steve Huffman, the creators of Reddit, were themselves inspired by a more primitive karma system, on Slashdot. This system had real-world implications. You didn’t get karma so that other people could see your karma; you got karma so that the system knew you weren’t a spammer. If a lot of your posts had been flagged for abuse, your karma would go down and you might lose posting or moderation privileges. But you weren’t really supposed to show off your high karma. “Don’t worry too much about it; it’s just an integer in a database,” Slashdot told us.
+>
+> To be honest, it was initially surprising to me that you could just print a number after people’s handles and they would feel rewarded. Look at me! Look at my four digit number! But it does drive a tremendous amount of good behavior. Even people who aren’t participating in the system (by working to earn reputation) buy into it (e.g., by respecting high-reputation users for their demonstrated knowledge and helpfulness).
+>
+> But there’s still something of a mystery here, which is why earning “magic internet points” is appealing to anyone.
+>
+> I think the answer is that it’s nice to know that you’ve made a difference. You toil away in the hot kitchen all day and when you serve dinner it’s nice to hear a compliment or two. If somebody compliments you on the extra effort you put into making radish roses, you’re going to be very happy.
+>
+> This is a part of a greater human need: to make an impact on the world, and to know that you’re contributing and being appreciated for it. Stack Overflow’s reputation system serves to recognize that you’re a human being and we are super thankful for your contribution.
+>
+> ... That said, there is a dark side to gamification. It’s not 100% awesome.
+>
+> The first problem we noticed is that it’s very nice to get an upvote, but getting a downvote feels like a slap in the face. Especially if you don’t understand why you got the downvote, or if you don’t agree. Stack Overflow’s voting has made many people unhappy over the years, and there are probably loads of people who felt unwelcome and who don’t participate in Stack Overflow as a result. (Here’s an old blog post explaining why we didn’t just eliminate downvotes).
+>
+> ... Gamification can shape behavior. It can guide you to do certain things in certain ways, and it can encourage certain behaviors. But it’s a very weak force. You can’t do that much with gamification. You certainly can’t get people to do something that they’re not interested in doing, anyway. I’ve heard a lot of crazy business plans that are pinning rather too high hopes on gamification as a way of getting people to go along with some crazy scheme that the people won’t want to go along with. Nobody’s going to learn French just to get the Duolingo points. But if you are learning French, and you are using Duolingo, you might make an effort to open the app every day just to keep your streak going.
+
+### Is Science Collective like Hacker News?
+
+http://www.paulgraham.com/hackernews.html
+
+> Internet conversation generally is only a few decades old. So we've probably only discovered a fraction of what we eventually will.
+>
+> That's why I'm so optimistic about HN. When a technology is this young, the existing solutions are usually terrible; which means it must be possible to do much better; which means many problems that seem insoluble aren't. Including, I hope, the problem that has afflicted so many previous communities: being ruined by growth.
+
+Here's their site policy:
+
+[Welcome to Hacker News](https://news.ycombinator.com/newswelcome.html) 
+
+> Hacker News is a bit different from other community sites, and we'd appreciate it if you'd take a minute to read the following as well as the official guidelines.
+>
+> HN is an experiment. As a rule, a community site that becomes popular will decline in quality. Our hypothesis is that this is not inevitable—that by making a conscious effort to resist decline, we can keep it from happening.
+>
+> Essentially there are two rules here: don't post or upvote crap links, and don't be rude or dumb in comment threads.
+>
+> A crap link is one that's only superficially interesting. Stories on HN don't have to be about hacking, because good hackers aren't only interested in hacking, but they do have to be deeply interesting.
+>
+> What does "deeply interesting" mean? It means stuff that teaches you about the world. A story about a robbery, for example, would probably not be deeply interesting. But if this robbery was a sign of some bigger, underlying trend, perhaps it could be.
+>
+> The worst thing to post or upvote is something that's intensely but shallowly interesting: gossip about famous people, funny or cute pictures or videos, partisan political articles, etc. If you let that sort of thing onto a news site, it will push aside the deeply interesting stuff, which tends to be quieter.
+>
+> The most important principle on HN, though, is to make thoughtful comments. Thoughtful in both senses: civil and substantial.
+>
+> The test for substance is a lot like it is for links. Does your comment teach us anything? There are two ways to do that: by pointing out some consideration that hadn't previously been mentioned, and by giving more information about the topic, perhaps from personal experience. Whereas comments like "LOL!" or worse still, "That's retarded!" teach us nothing.
+>
+> Empty comments can be ok if they're positive. There's nothing wrong with submitting a comment saying just "Thanks." What we especially discourage are comments that are empty and negative—comments that are mere name-calling.
+>
+> Which brings us to the most important principle on HN: civility. Since long before the web, the anonymity of online conversation has lured people into being much ruder than they'd be in person. So the principle here is: don't say anything you wouldn't say face to face. This doesn't mean you can't disagree. But disagree without calling names. If you're right, your argument will be more convincing without them. 
+
+[This commentary on broken windows](http://www.paulgraham.com/hackernews.html) is especially thought-provoking ...
+
+> It's pretty clear now that the broken windows theory applies to community sites as well. The theory is that minor forms of bad behavior encourage worse ones: that a neighborhood with lots of graffiti and broken windows becomes one where robberies occur. I was living in New York when Giuliani introduced the reforms that made the broken windows theory famous, and the transformation was miraculous. And I was a Reddit user when the opposite happened there, and the transformation was equally dramatic.
+>
+> I'm not criticizing Steve and Alexis. What happened to Reddit didn't happen out of neglect. From the start they had a policy of censoring nothing except spam. Plus Reddit had different goals from Hacker News. Reddit was a startup, not a side project; its goal was to grow as fast as possible. Combine rapid growth and zero censorship, and the result is a free for all. But I don't think they'd do much differently if they were doing it again. Measured by traffic, Reddit is much more successful than Hacker News.
+>
+> But what happened to Reddit won't inevitably happen to HN. There are several local maxima. There can be places that are free for alls and places that are more thoughtful, just as there are in the real world; and people will behave differently depending on which they're in, just as they do in the real world.
+>
+> I've observed this in the wild. I've seen people cross-posting on Reddit and Hacker News who actually took the trouble to write two versions, a flame for Reddit and a more subdued version for HN.
+
+### Is Science Collective like CosmoQuest (Formerly Bad Astronomy and Universe Today)?
 
 ## First Steps
 
