@@ -563,7 +563,7 @@ This collection of articles on these four sites -- Slashdot, Reddit, Stack Overf
 >
 > There are two kinds of people who post threads in the ATM section:
 >
-> 1.People who have an interesting idea to explain some aspect of the Universe. They post their idea, community members generously donate their time to help think it through and provide ways to test the theory. It happens quickly and we all move on.
+> 1. People who have an interesting idea to explain some aspect of the Universe. They post their idea, community members generously donate their time to help think it through and provide ways to test the theory. It happens quickly and we all move on.
 >
 > 2. People who are looking to use BAUT as a marketing platform for their alternative theories. Tell us your idea, that's fine. But we're not going to allow the forum to turn into a marketing vehicle for them. 30 days should be plenty of time to present your concept, deal with objections, answer anything else.
 >
@@ -574,7 +574,15 @@ This collection of articles on these four sites -- Slashdot, Reddit, Stack Overf
 [Advice for Against-the-Mainstream Idea Advocates](https://forum.cosmoquest.org/showthread.php?107271-Advice-for-ATM-Idea-Advocates-Read-before-posting-in-ATM) ...
 
 <p align="center">
-    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/bautforum-advice.png" width="100%" />
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/bautforum-advice-1.png" width="100%" />
+</p>
+
+<p align="center">
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/bautforum-advice-2.png" width="100%" />
+</p>
+
+<p align="center">
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/bautforum-advice-3.png" width="100%" />
 </p>
 
 [Rules for Posting to the Against-the-Mainstream Board](https://forum.cosmoquest.org/showthread.php?32864-**-Rules-For-Posting-To-This-Board-**)
