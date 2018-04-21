@@ -245,6 +245,8 @@ The Slashdot system for rating content can observably produce unusual results fo
     <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/slashdot-troll.jpg" width="50%" />
 </p>
 
+I've spent [a few months posting critiques of modern science theories to Slashdot](https://slashdot.org/~paradigmsareconstruc).  I received a karma boost from an accepted submission, but I found that just going through the process of responding to people led me to lose a significant amount of my karma.  This would seem to cause a problem for the types of comments which are posted there: When people are taking the time to post information and arguments which are intended to be persuasive, this person is spending their own personal time to increase the quality of content on the social network.  They should not burn through their karma for the sin of bringing value to this network.  Such a rewards structure disincentivizes its user base from any sort of claim which might diverge from the mainstream view.
+
 Phys.org comments, by contrast, do not prevent users from judging contributions in the conversations they participate in.  When phys.org moderators decide that a user has violated their policy, they might choose to remove every single post the user has ever made, [with results which today look like this](https://phys.org/news/2018-01-black-hole-breakthrough-insight-mysterious.html):
 
 <p align="center">
@@ -275,7 +277,7 @@ They loosely equate "non-mainstream theories" with "pseudoscience".
     <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/physorg-pseudoscience.png" width="100%" />
 </p>
 
-One thing to notice about their guidelines is that this is not so much a purpose-driven, principled approach, but rather focused upon the minutia, the transactional details which would ideally be handled by the infrastructure and system for feedback.  What's interesting about phys.org's policy on non-mainstream theories is that it seems to leave the suggestion that the point of the comments is to support mainstream theory.  It can be argued that the guidelines say a lot about the point of comments on phys.org.
+One thing to notice about their guidelines is that this is not so much a purpose-driven, principled approach, but rather focused upon the minutia, the transactional details.  One guideline about avoiding pointless verbiage is borderline pedantic.  What's interesting about phys.org's policy on non-mainstream theories is that it seems to leave the suggestion that the point of the comments is to support mainstream theory.  It can be argued that the guidelines say a lot about the point of comments on phys.org.
 
 Another commenter, Captain_Stumpy, [is permitted to repeatedly and overtly violate phys.org's policy against "avoiding personal attacks and name calling"](https://phys.org/news/2017-11-closest-temperate-world-orbiting-quiet.html) -- one imagines because he is defending mainstream science:
 
@@ -287,7 +289,7 @@ Phys.org comments are length-limited to 1000 characters, but users are allowed t
 
 Chunking seems to have a positive effect upon encouraging the participant to keep their contributions concise -- on Twitter, Mastodon and phys.org.  Twitter seems to not count every letter inside of links towards these limits.
 
-Slashdot and Twitter discussions are threaded, whereas sites like physorg and Mastodon seem to bin comments into flat feeds.
+Slashdot discussions are threaded, whereas sites like physorg, Twitter and Mastodon seem to bin comments into more of a flat structure.
 
 One observation is that chunking seems to rely heavily upon links to off-site content.  Users oftentimes ignore links when there is no excerpt which indicates the link's content.  Also, websites are ephemeral.  Content can completely disappear, and it may or may not be archived on Google's Wayback Machine.  One idea worth considering is that excerpts should not count towards the character limit.  The same effect, more-or-less, can be had by attaching screenshots to Twitter posts.
 
