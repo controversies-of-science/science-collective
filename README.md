@@ -467,7 +467,7 @@ Here's their site policy:
 >
 > I think it's important that a site that kills submissions provide a way for users to see what got killed if they want to. That keeps editors honest, and just as importantly, makes users confident they'd know if the editors stopped being honest. HN users can do this by flipping a switch called showdead in their profile. [4]
 
-This commentary on comments is fascinating because these problems are actually observable in Slashdot comments.  The pithy commenters have completely overtaken Slashdot, and it appears that HN has attempted to fix this problem ...
+This commentary on comments is fascinating because these problems are actually observable in Slashdot comments today.  The pithy commenters have completely overtaken Slashdot, and it appears that HN has attempted to fix this problem ...
 
 > [Comments](http://www.paulgraham.com/hackernews.html)
 >
@@ -501,7 +501,7 @@ On attracting the right people ...
 >
 > But getting downvoted isn’t anyone’s idea of a good time. It’s tempting to disallow it entirely, to avoid this inevitable discussion:
 
-Yet another fascinating commentary, which now resides [here](https://stackoverflow.uservoice.com/forums/1722-general/suggestions/133310-discourage-downvoting):
+[On why downvoting should be discouraged](https://stackoverflow.uservoice.com/forums/1722-general/suggestions/133310-discourage-downvoting):
 
 > Please do something else to discourage downvoting. Maybe increase the cost to the downvoter (there’s already a “declined” on force user to comment on downvoting).
 >
@@ -540,7 +540,7 @@ Yet another fascinating commentary, which now resides [here](https://stackoverfl
 >
 > The endless inflation of a system with no voting limits is something we learned early on. Instituting vote limits has many advantages besides reducing the inherent inflation. Even if you want to maliciously downvote someone out of revenge, you can only do -60 damage to that user’s reputation per day — while simultaneously reducing your own reputation by -30. And you’ll have to wait 24 hours to do it again, which is a nice de-facto timeout to potentially let cooler heads prevail.
 
-This collection of articles on these four sites -- Slashdot, Reddit, Stack Overflow and Hacker News -- reveal an important history to aggregator sites, where the more recent site designers are attempting to start with the lessons from the former sites, which they view in some manner as flawed.  In a sense, Phys.org comments are to science discourse what Usenet was to Internet information aggregation more broadly, 30 years ago: It's a sort of gestative state for complex conversations, and a platform where the bad behaviors can be traced directly back to the site's design decisions.
+This collection of articles on these four sites -- Slashdot, Reddit, Stack Overflow and Hacker News -- reveal an important history to aggregator sites, where the more recent site designers are attempting to start with the lessons from the former sites, which they view in some manner as flawed.  There are some very practical suggestions here.  In a sense, Phys.org comments are to science discourse what Usenet was to Internet information aggregation more broadly, 30 years ago: It's a sort of gestative state for complex conversations, and a platform where the bad behaviors can be traced directly back to the site's design decisions.
 
 ### Is Science Collective like CosmoQuest (Formerly Bad Astronomy and Universe Today)?
 
