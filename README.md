@@ -233,6 +233,8 @@ I don't expect this feature to exist right away, because there needs to be enoug
 
 Science collectives need a system of comments and feedback which is appropriate for the objectives, and which bases upon a survey of similar existing systems.  We should not necessarily approach the existing Mastodon UI as a complete or appropriate solution to these problems.
 
+### Slashdot.org
+
 For example, Slashdot's karma system empowers users to rate one anothers' content, but deprives them of this power once they participate in the conversation.
 
 <p align="center">
@@ -246,6 +248,8 @@ The Slashdot system for rating content can observably produce unusual results fo
 </p>
 
 I've spent [a few months posting critiques of modern science theories to Slashdot](https://slashdot.org/~paradigmsareconstruc).  I received a karma boost from an accepted submission, but I found that just going through the process of responding to people led me to lose a significant amount of my karma.  This would seem to cause a problem for the types of comments which are posted there: When people are taking the time to post information and arguments which are intended to be persuasive, this person is spending their own personal time to increase the quality of content on the social network.  They should not burn through their karma for the sin of bringing value to this network.  Such a rewards structure disincentivizes its user base from any sort of claim which might diverge from the mainstream view.
+
+### Phys.org
 
 Phys.org comments, by contrast, do not prevent users from judging contributions in the conversations they participate in.  When phys.org moderators decide that a user has violated their policy, they might choose to remove every single post the user has ever made, [with results which today look like this](https://phys.org/news/2018-01-black-hole-breakthrough-insight-mysterious.html):
 
@@ -292,6 +296,8 @@ Chunking seems to have a positive effect upon encouraging the participant to kee
 Slashdot discussions are threaded, whereas sites like physorg, Twitter and Mastodon seem to bin comments into more of a flat structure.
 
 One observation is that chunking seems to rely heavily upon links to off-site content.  Users oftentimes ignore links when there is no excerpt which indicates the link's content.  Also, websites are ephemeral.  Content can completely disappear, and it may or may not be archived on Google's Wayback Machine.  One idea worth considering is that excerpts should not count towards the character limit.  The same effect, more-or-less, can be had by attaching screenshots to Twitter posts.
+
+### Reddit
 
 Reddit differs in that they order comments on the basis of votes.
 
