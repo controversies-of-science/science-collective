@@ -526,6 +526,7 @@ On attracting the right people ...
 > Does it work? I think the data itself tells the story. Here are the total number of votes cast on Stack Overflow through 3/7/2009:
 >
 > upvotes - 1,251,020
+> 
 > downvotes - 122,141
 >
 > On average, there are 10x as many upvotes cast as downvotes.
@@ -543,6 +544,64 @@ On attracting the right people ...
 This collection of articles on these four sites -- Slashdot, Reddit, Stack Overflow and Hacker News -- reveal an important history to aggregator sites, where the more recent site designers are attempting to start with the lessons from the former sites, which they view in some manner as flawed.  There are some very practical suggestions here.  In a sense, Phys.org comments are to science discourse what Usenet was to Internet information aggregation more broadly, 30 years ago: It's a sort of gestative state for complex conversations, and a platform where the bad behaviors can be traced directly back to the site's design decisions.
 
 ### Is Science Collective like CosmoQuest (Formerly Bad Astronomy and Universe Today)?
+
+[Some basic details](https://rationalwiki.org/wiki/Cosmoquest_Forum) ...
+
+<p align="center">
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/bautforum-basics.png" width="100%" />
+</p>
+
+[A change in policy](https://forum.cosmoquest.org/showthread.php?54741-New-Policies-Regarding-Against-the-Mainstream-section) ...
+
+> New Policies Regarding Against the Mainstream section
+>
+> Okay folks, we're implementing a new policy for the Against the Mainstream (ATM) section of BAUT.
+>
+> New ATM theories will remain open for 30 days, and then they'll be closed by the moderation staff. In other words, if you've got an interesting new theory about the Universe, you've got 30 days to deal with objections, and then we'll seal it up - preserved for all eternity. Any new topics started up by the ATM theorist will be shut down immediately, and/or deleted.
+>
+> Okay, so why did we make this decision?
+>
+> There are two kinds of people who post threads in the ATM section:
+>
+> 1.People who have an interesting idea to explain some aspect of the Universe. They post their idea, community members generously donate their time to help think it through and provide ways to test the theory. It happens quickly and we all move on.
+>
+> 2. People who are looking to use BAUT as a marketing platform for their alternative theories. Tell us your idea, that's fine. But we're not going to allow the forum to turn into a marketing vehicle for them. 30 days should be plenty of time to present your concept, deal with objections, answer anything else.
+>
+> The problem is that the people in group 2 were stretching the patience of the community and using up moderator resources. So we've decided to take this direction.
+>
+> We'll start this new policy a week from today - March 6, 2007. We'll close up every ATM thread older than 30-days, no exceptions. They'll all still be accessible by the search engine, and if you want to put in a hard link.
+
+[Advice for Against-the-Mainstream Idea Advocates](https://forum.cosmoquest.org/showthread.php?107271-Advice-for-ATM-Idea-Advocates-Read-before-posting-in-ATM) ...
+
+<p align="center">
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/bautforum-advice.png" width="100%" />
+</p>
+
+[Rules for Posting to the Against-the-Mainstream Board](https://forum.cosmoquest.org/showthread.php?32864-**-Rules-For-Posting-To-This-Board-**)
+
+> The purpose of the Against The Mainstream forum is to allow you to defend a non-mainstream scientific idea, hypothesis or theory. Once. For 30 days only. A number of behavior rules follow from that. The forum is not for developing an idea. Either you have something to defend, or you don't. Not "hey guys, what if X? Do the math for me please!". It's not for complaining about mainstream science. It's not for spamming an idea and never posting again.
+>
+> 30 days are short, therefore we crack down hard on things that distract from the forum's primary purpose of defending your idea. Like other "helpers" or collaborators chiming in. Like arguing about moderator actions. Like side discussions on the merit of the ATM forum. Like attacking the person, not the idea. Like other off-topic stuff. 
+>
+> People will vigorously challenge your arguments; that's what science and scientists do. If you cannot handle a frank and critical examination of your theory, then maybe you need to rethink your theory. Remember: you came here. It's our job to question new theories. Those that are strong will survive, and may become part of mainstream science. All such discussions must be kept polite and respectful, by all parties.
+>
+> Your ATM thread will be closed after 30 days. Extensions may be granted by Moderators/Admins, if circumstances warrant. Once an ATM idea has been presented, it may not be presented again unless you have information not available the first time.
+>
+> You may have only one thread active at a time in ATM. If you ask to have a thread closed before the 30 days limit so that you may open a new thread, the old thread will not be reopened later.
+>
+> If you post an ATM idea elsewhere, it will be split off to an ATM thread. That new split thread will be locked on creation, if there's a current one open, to be unlocked when the current one times-out at 30 days. The 30 day count for the new one, however, starts on creation, not unlocking. (See preceding paragraphs.)
+>
+> You must defend your arguments and directly answer pertinent questions in a timely manner. Honestly answering "I don't know" is acceptable. Evasiveness will not be tolerated.
+>
+> If it appears that you are using circular reasoning, depending on long-debunked arguments, or breaking any of these other rules, you will receive one warning, and if that warning goes unheeded, you will receive infractions, which can lead to suspension or banishment.
+>
+> The ATM forum is not the place for speculative discussion. Whether you are presenting your own ideas or those of another, you are responsible for defending them according to the provisions above. If you have a question about an ATM idea, you may pose it in Q&A, but you may not advocate it there.
+
+[The actions which moderators can take are extraordinary](https://forum.cosmoquest.org/showthread.php?32864-**-Rules-For-Posting-To-This-Board-**):
+
+<p align="center">
+    <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/bautforum-moderator-powers.png" width="100%" />
+</p>
 
 ## First Steps
 
