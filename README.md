@@ -565,6 +565,12 @@ In the midst of compiling these articles, [a former Reddit product head argued](
     <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/bautforum-basics.png" width="100%" />
 </p>
 
+This part in particular ...
+
+> The "Against the Mainstream" section serves as a dumping ground for the crank threads that inevitably appear on such forums. It operates on special rules that require proponents to support their claims and answer direct questions.
+
+... sends a clear message that the point is to defend mainstream science theories.
+
 [A change in policy](https://forum.cosmoquest.org/showthread.php?54741-New-Policies-Regarding-Against-the-Mainstream-section) ...
 
 > New Policies Regarding Against the Mainstream section
@@ -584,6 +590,8 @@ In the midst of compiling these articles, [a former Reddit product head argued](
 > The problem is that the people in group 2 were stretching the patience of the community and using up moderator resources. So we've decided to take this direction.
 >
 > We'll start this new policy a week from today - March 6, 2007. We'll close up every ATM thread older than 30-days, no exceptions. They'll all still be accessible by the search engine, and if you want to put in a hard link.
+
+This policy may at first glance seem harmless, but it's quite the opposite: Challenges to textbook theory can only gain validity over time through a process of tracking.  There little reason to believe that taking a snapshot of the vindications for some controversial claim at some arbitrary point in time will, in terms of process, reveal the best challenges to existing theory.
 
 [Advice for Against-the-Mainstream Idea Advocates](https://forum.cosmoquest.org/showthread.php?107271-Advice-for-ATM-Idea-Advocates-Read-before-posting-in-ATM) ...
 
@@ -619,11 +627,15 @@ In the midst of compiling these articles, [a former Reddit product head argued](
 >
 > The ATM forum is not the place for speculative discussion. Whether you are presenting your own ideas or those of another, you are responsible for defending them according to the provisions above. If you have a question about an ATM idea, you may pose it in Q&A, but you may not advocate it there.
 
+It's interesting that there is no place for speculations on CosmoQuest.  Speculations serve an important purpose in the scientific method, and some speculations are far better than others.
+
 [The actions which moderators can take are extraordinary](https://forum.cosmoquest.org/showthread.php?32864-**-Rules-For-Posting-To-This-Board-**):
 
 <p align="center">
     <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/bautforum-moderator-powers.png" width="100%" />
 </p>
+
+I think it's safe to say that Science Collective will very much be the antithesis of CosmoQuest.
 
 ## First Steps
 
