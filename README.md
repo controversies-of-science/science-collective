@@ -591,7 +591,7 @@ This part in particular ...
 >
 > We'll start this new policy a week from today - March 6, 2007. We'll close up every ATM thread older than 30-days, no exceptions. They'll all still be accessible by the search engine, and if you want to put in a hard link.
 
-This policy may at first glance seem harmless, but it's quite the opposite: Challenges to textbook theory can only gain validity over time through a process of tracking.  There little reason to believe that taking a snapshot of the vindications for some controversial claim at some arbitrary point in time will, in terms of process, reveal the best challenges to existing theory.
+This policy may at first glance seem harmless, but it's quite the opposite: Challenges to textbook theory can only gain validity over time through a process of tracking.  There is little reason to believe that taking a snapshot of the vindications for some controversial claim at some arbitrary point in time will, in terms of process, reveal the best challenges to existing theory.  It really seems that the point of CosmoQuest is to defend textbook theory.  A site where the point is to identify the best challengers would not be designed this way.
 
 [Advice for Against-the-Mainstream Idea Advocates](https://forum.cosmoquest.org/showthread.php?107271-Advice-for-ATM-Idea-Advocates-Read-before-posting-in-ATM) ...
 
