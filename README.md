@@ -6,6 +6,8 @@
 
 ## The Basic Idea
 
+Science Collective is a social network where participants become smarter in exchange for transforming informationally disordered topics into scientifically publishable topics.  Users identify unexpected vindications, and aggregate (and prioritize) pre-existing coherent arguments -- processes which, I have personally experienced, can elicit a subject-object transition (aka thinking at a higher level).
+
 <p align="center">
     <img src="https://github.com/controversies-of-science/science-collective/blob/master/images/facebook-wall-2.png" width="66%" />
 </p>
